@@ -1,0 +1,1001 @@
+Paciente_ID,Nombre,Apellido,Edad,Sexo,Diagnostico,Distrito,Fecha_Ingreso
+P00001,Lucía,Pérez,NA,F,Alergia,Lince,20/03/2018
+P00002,Luis,Torres,NA,,Hipertensión,Cajamarca,31/05/2020
+P00003,José,Fernández,25,,Hipertensión,Callao,10/02/2018
+P00004,Lucía,García,,NA,,NA,28/03/2024
+P00005,Lucía,Pérez,,F,,La Molina,02/01/2024
+P00006,Lucía,Rojas,,,Covid-19,Cajamarca,05/03/2017
+P00007,NA,Vargas,NA,NA,Hipertensión,NA,01/09/2015
+P00008,Xiomara,García,NA,,Migraña,,18/11/2022
+P00009,Andrés,Rojas,,,Gripe,Miraflores,23/01/2017
+P00010,Andrés,García,31,F,Hipertensión,San Isidro,16/04/2020
+P00011,Ana,Rojas,NA,F,Gripe,Callao,29/05/2017
+P00012,Xiomara,Torres,,M,Diabetes,Lince,26/06/2022
+P00013,Luis,Rojas,59,F,Covid-19,Cajamarca,20/09/2017
+P00014,Andrés,Fernández,NA,NA,Diabetes,Surco,24/09/2015
+P00015,Paola,Fernández,100,NA,Covid-19,Lince,06/07/2018
+P00016,María,Vargas,,,Migraña,Callao,23/07/2019
+P00017,Ana,Torres,NA,F,Migraña,Cajamarca,02/01/2024
+P00018,Luis,Torres,NA,F,Hipertensión,Cajamarca,19/12/2018
+P00019,Luis,Rojas,64,M,,San Isidro,25/10/2017
+P00020,Andrés,Fernández,,M,,San Isidro,09/04/2018
+P00021,Luis,Rojas,NA,M,Alergia,Cajamarca,04/12/2022
+P00022,Pedro,Gómez,NA,M,NA,La Molina,30/03/2017
+P00023,Xiomara,Ramírez,NA,M,,Miraflores,19/07/2020
+P00024,José,Torres,100,NA,Diabetes,Cajamarca,07/07/2019
+P00025,María,Rojas,,NA,Hipertensión,,25/03/2018
+P00026,María,Rojas,NA,NA,Hipertensión,Surco,25/10/2015
+P00027,Ana,García,NA,,Asma,San Isidro,09/08/2024
+P00028,Luis,Ramírez,41,NA,NA,Lince,12/04/2023
+P00029,NA,Gómez,NA,NA,Hipertensión,,31/07/2017
+P00030,Ana,Pérez,,NA,Hipertensión,Miraflores,30/01/2022
+P00031,Lucía,NA,,NA,Alergia,,02/07/2019
+P00032,Luis,Rojas,NA,M,Diabetes,Cajamarca,13/12/2022
+P00033,Ana,Rojas,28,M,Gripe,Lince,29/05/2022
+P00034,María,Gómez,NA,M,Diabetes,Miraflores,28/10/2020
+P00035,José,Rojas,,NA,Covid-19,Surco,28/01/2015
+P00036,Paola,Vargas,NA,F,Hipertensión,Cajamarca,06/06/2017
+P00037,Ana,Ramírez,NA,NA,NA,Lince,18/03/2019
+P00038,Pedro,Gómez,NA,NA,Diabetes,Cajamarca,23/01/2017
+P00039,Lucía,NA,NA,NA,Migraña,Miraflores,27/06/2018
+P00040,Ana,Torres,NA,F,Diabetes,Miraflores,09/04/2018
+P00041,Paola,Rojas,98,F,Hipertensión,Miraflores,03/04/2016
+P00042,María,Fernández,NA,NA,Gripe,,04/07/2024
+P00043,Xiomara,Torres,,,Alergia,Callao,23/12/2023
+P00044,Luis,NA,,M,Asma,Miraflores,23/12/2018
+P00045,Luis,García,,F,Migraña,Cajamarca,19/07/2024
+P00046,José,Gómez,95,,,,23/04/2017
+P00047,NA,NA,,F,Diabetes,Miraflores,13/12/2019
+P00048,Juan,NA,,,,La Molina,27/01/2021
+P00049,Lucía,Vargas,,F,Hipertensión,Surco,03/08/2021
+P00050,Ana,NA,,F,Covid-19,Miraflores,03/08/2019
+P00051,Lucía,Rojas,NA,,Covid-19,Miraflores,03/03/2017
+P00052,Pedro,García,,NA,,NA,14/09/2020
+P00053,Paola,Pérez,,,Gripe,Surco,08/01/2018
+P00054,Lucía,Torres,NA,NA,Diabetes,NA,01/01/2016
+P00055,NA,Torres,NA,F,,Miraflores,29/03/2019
+P00056,Luis,Pérez,,NA,Migraña,,06/06/2015
+P00057,Luis,Ramírez,78,NA,Asma,Callao,26/05/2019
+P00058,Juan,García,,,,San Isidro,05/04/2019
+P00059,Pedro,Vargas,67,,Hipertensión,Surco,01/03/2018
+P00060,NA,Fernández,,F,NA,Callao,21/02/2022
+P00061,Pedro,Torres,,F,Alergia,Surco,16/09/2016
+P00062,NA,NA,23,F,Diabetes,Lince,27/09/2021
+P00063,María,García,36,,Alergia,Miraflores,23/05/2016
+P00064,José,Ramírez,NA,M,Asma,,12/11/2017
+P00065,NA,Rojas,31,,Migraña,NA,15/12/2023
+P00066,María,Rojas,12,F,,Miraflores,10/08/2017
+P00067,Xiomara,Torres,12,NA,NA,,29/04/2020
+P00068,Xiomara,Fernández,48,M,Alergia,Callao,15/04/2017
+P00069,Xiomara,Vargas,99,M,,Cajamarca,16/02/2021
+P00070,Xiomara,Ramírez,57,F,Hipertensión,Cajamarca,25/08/2016
+P00071,Paola,Fernández,NA,NA,Migraña,Surco,25/06/2018
+P00072,Ana,Fernández,NA,,Asma,Cajamarca,22/08/2024
+P00073,Xiomara,Vargas,NA,M,Gripe,La Molina,04/05/2019
+P00074,Andrés,Ramírez,NA,F,Migraña,San Isidro,25/07/2015
+P00075,Paola,Ramírez,54,NA,Diabetes,,17/11/2022
+P00076,Xiomara,Torres,,M,Migraña,San Isidro,31/07/2015
+P00077,Luis,Ramírez,17,,Diabetes,Lince,29/11/2018
+P00078,Ana,Pérez,26,NA,Alergia,Surco,23/04/2016
+P00079,Xiomara,Vargas,77,M,Gripe,San Isidro,16/09/2023
+P00080,Andrés,NA,75,F,Migraña,Surco,27/03/2019
+P00081,Juan,Fernández,,NA,Hipertensión,Cajamarca,15/07/2015
+P00082,Andrés,Pérez,3,M,,La Molina,05/11/2021
+P00083,José,Pérez,NA,F,Asma,La Molina,16/04/2024
+P00084,Paola,Fernández,76,M,Migraña,NA,06/02/2015
+P00085,María,Vargas,NA,NA,NA,Cajamarca,06/07/2022
+P00086,Paola,Gómez,29,F,Gripe,Surco,16/06/2017
+P00087,Juan,García,,NA,,NA,13/05/2015
+P00088,Juan,Rojas,NA,F,Asma,San Isidro,15/11/2024
+P00089,Ana,Rojas,NA,NA,Covid-19,Miraflores,23/02/2020
+P00090,Luis,NA,79,,Covid-19,San Isidro,21/08/2020
+P00091,Paola,Rojas,,NA,NA,Cajamarca,25/09/2015
+P00092,Andrés,García,73,,Covid-19,Surco,12/01/2015
+P00093,Luis,NA,NA,M,Hipertensión,San Isidro,17/08/2020
+P00094,Pedro,Gómez,NA,M,Gripe,Miraflores,02/11/2023
+P00095,Lucía,Vargas,87,F,Diabetes,La Molina,17/04/2024
+P00096,Juan,Vargas,,F,Alergia,Callao,17/03/2017
+P00097,Ana,Fernández,,M,NA,Miraflores,17/01/2024
+P00098,Lucía,Pérez,NA,F,Asma,Miraflores,16/04/2016
+P00099,Ana,Torres,4,,,Cajamarca,27/08/2017
+P00100,Luis,Gómez,NA,NA,Migraña,,08/06/2023
+P00101,Luis,Ramírez,,,Diabetes,Lince,23/07/2024
+P00102,Ana,Pérez,NA,,NA,NA,20/06/2023
+P00103,Luis,Pérez,,NA,Covid-19,NA,05/10/2015
+P00104,María,Ramírez,NA,,Migraña,Lince,10/06/2016
+P00105,Andrés,Gómez,NA,,Diabetes,La Molina,05/10/2017
+P00106,José,Rojas,NA,,Asma,NA,07/08/2024
+P00107,Ana,Ramírez,NA,F,Gripe,,28/04/2015
+P00108,Paola,García,71,F,,Miraflores,31/08/2020
+P00109,Xiomara,Torres,,M,Migraña,NA,25/03/2021
+P00110,Ana,NA,,F,Diabetes,Cajamarca,04/07/2018
+P00111,Lucía,Ramírez,,NA,NA,NA,25/04/2021
+P00112,Lucía,García,NA,NA,Asma,,31/01/2024
+P00113,Pedro,Torres,,NA,Asma,Miraflores,05/04/2015
+P00114,Ana,Pérez,18,F,,Cajamarca,17/04/2019
+P00115,José,Ramírez,50,F,Asma,Surco,13/01/2022
+P00116,Lucía,Pérez,NA,M,Migraña,San Isidro,14/12/2019
+P00117,Pedro,Rojas,71,F,Migraña,Callao,14/01/2021
+P00118,Lucía,Gómez,58,F,Diabetes,,28/07/2018
+P00119,María,Rojas,,,Diabetes,Lince,14/07/2015
+P00120,Xiomara,Ramírez,63,NA,Diabetes,San Isidro,12/07/2021
+P00121,Xiomara,Ramírez,59,NA,Asma,Miraflores,24/11/2021
+P00122,Lucía,Ramírez,,F,Hipertensión,La Molina,09/10/2017
+P00123,Lucía,Fernández,7,F,Covid-19,,21/03/2019
+P00124,Pedro,Vargas,8,,Gripe,Callao,02/11/2016
+P00125,María,NA,,,NA,NA,11/03/2016
+P00126,Andrés,Ramírez,35,F,Alergia,San Isidro,20/06/2019
+P00127,Xiomara,Gómez,NA,F,Migraña,Cajamarca,07/01/2024
+P00128,Ana,Ramírez,89,F,Alergia,Surco,22/11/2023
+P00129,Paola,Vargas,,,,San Isidro,25/05/2024
+P00130,Pedro,Ramírez,81,NA,Migraña,Callao,18/11/2015
+P00131,Lucía,Ramírez,66,M,Covid-19,Miraflores,09/07/2019
+P00132,NA,Pérez,NA,NA,Migraña,Callao,23/08/2020
+P00133,María,Rojas,10,F,Hipertensión,Miraflores,06/03/2023
+P00134,NA,Pérez,NA,,Alergia,NA,01/05/2021
+P00135,Lucía,Fernández,38,M,Migraña,NA,15/07/2016
+P00136,Ana,Gómez,NA,F,Asma,,14/05/2016
+P00137,José,Rojas,,,Alergia,Miraflores,26/09/2015
+P00138,NA,Vargas,55,M,Migraña,San Isidro,26/08/2024
+P00139,María,NA,NA,F,Asma,San Isidro,07/12/2015
+P00140,Xiomara,Ramírez,,F,Covid-19,,30/03/2016
+P00141,Paola,Gómez,NA,,Alergia,,06/07/2022
+P00142,Pedro,Torres,,F,,Surco,12/07/2020
+P00143,Xiomara,Rojas,NA,M,Gripe,Callao,08/02/2016
+P00144,Lucía,Fernández,,NA,Gripe,San Isidro,10/03/2017
+P00145,Ana,Gómez,,NA,Gripe,NA,22/01/2023
+P00146,Andrés,Pérez,,M,Gripe,La Molina,23/08/2016
+P00147,Pedro,NA,,,Hipertensión,San Isidro,18/08/2021
+P00148,José,Gómez,,NA,Diabetes,San Isidro,18/08/2017
+P00149,Xiomara,Ramírez,40,,Diabetes,Miraflores,17/04/2021
+P00150,Pedro,Fernández,NA,NA,Hipertensión,,29/10/2017
+P00151,Paola,Vargas,NA,,Asma,San Isidro,10/03/2024
+P00152,Xiomara,NA,NA,M,Diabetes,Lince,24/06/2017
+P00153,Juan,Gómez,,M,Asma,Surco,23/10/2022
+P00154,NA,Torres,NA,M,Gripe,San Isidro,30/01/2021
+P00155,Paola,Vargas,50,,Asma,Miraflores,29/12/2017
+P00156,José,Gómez,NA,NA,,Lince,20/05/2018
+P00157,María,Fernández,NA,F,,,25/05/2018
+P00158,NA,García,NA,F,,,03/07/2020
+P00159,José,Rojas,NA,F,Migraña,Miraflores,14/12/2022
+P00160,Juan,NA,,,Alergia,,14/11/2015
+P00161,Luis,NA,15,NA,Hipertensión,Lince,17/08/2015
+P00162,Luis,Gómez,,F,Alergia,Cajamarca,21/06/2022
+P00163,Luis,Torres,,NA,Diabetes,Miraflores,06/07/2021
+P00164,Andrés,Pérez,NA,,Migraña,NA,05/10/2019
+P00165,Juan,NA,NA,F,Alergia,San Isidro,29/07/2024
+P00166,Ana,Ramírez,NA,,Asma,La Molina,16/07/2016
+P00167,Juan,Rojas,2,NA,Hipertensión,Miraflores,24/06/2021
+P00168,Lucía,Gómez,23,NA,,La Molina,12/08/2020
+P00169,Luis,NA,,NA,NA,,13/05/2024
+P00170,Xiomara,Gómez,0,F,Alergia,Surco,26/12/2024
+P00171,NA,Torres,NA,M,Covid-19,San Isidro,16/10/2020
+P00172,José,Torres,NA,,Alergia,Miraflores,26/04/2018
+P00173,NA,Fernández,NA,,Migraña,La Molina,06/10/2021
+P00174,Andrés,NA,NA,,Hipertensión,San Isidro,16/05/2020
+P00175,María,NA,,M,NA,La Molina,20/02/2017
+P00176,María,Rojas,NA,,Hipertensión,Callao,30/03/2021
+P00177,Luis,Gómez,,,Covid-19,NA,26/02/2019
+P00178,Luis,Ramírez,,NA,Asma,Cajamarca,28/05/2020
+P00179,Ana,Fernández,,,NA,,15/12/2015
+P00180,María,Rojas,,M,,NA,01/02/2017
+P00181,José,Pérez,,F,Asma,Surco,22/05/2022
+P00182,Pedro,Torres,NA,,Hipertensión,,05/05/2024
+P00183,Luis,Rojas,66,,NA,Miraflores,06/09/2016
+P00184,NA,Vargas,,,Alergia,Callao,12/03/2015
+P00185,Paola,Gómez,,M,Gripe,Lince,22/10/2017
+P00186,José,Vargas,NA,M,,Cajamarca,08/04/2019
+P00187,Juan,NA,,M,NA,,20/10/2023
+P00188,Luis,Torres,NA,F,Hipertensión,Lince,05/10/2019
+P00189,María,Vargas,54,F,Hipertensión,Surco,09/12/2019
+P00190,NA,Gómez,NA,M,,,27/11/2023
+P00191,Pedro,Vargas,NA,NA,Hipertensión,Cajamarca,26/01/2023
+P00192,José,Pérez,NA,,Diabetes,Surco,03/10/2019
+P00193,Andrés,Vargas,62,M,Diabetes,Callao,31/08/2022
+P00194,Luis,Pérez,NA,,NA,NA,09/11/2021
+P00195,Ana,García,58,F,Covid-19,Cajamarca,07/11/2020
+P00196,Lucía,Fernández,,,Asma,Cajamarca,24/06/2020
+P00197,Paola,Ramírez,,F,Migraña,Miraflores,18/03/2022
+P00198,Juan,Fernández,,,Covid-19,Cajamarca,11/11/2022
+P00199,José,Vargas,NA,F,Asma,NA,21/04/2020
+P00200,José,NA,NA,F,Migraña,,14/05/2022
+P00201,Andrés,Gómez,36,,Diabetes,NA,14/05/2018
+P00202,José,Pérez,NA,M,Hipertensión,Callao,27/07/2022
+P00203,Xiomara,NA,20,,Alergia,Miraflores,03/02/2020
+P00204,María,NA,86,NA,Asma,Miraflores,19/09/2015
+P00205,Paola,Torres,65,M,Alergia,La Molina,16/06/2024
+P00206,Paola,Gómez,,M,Gripe,La Molina,21/03/2017
+P00207,Pedro,Torres,NA,NA,Alergia,San Isidro,22/05/2017
+P00208,NA,NA,26,F,,Miraflores,16/08/2015
+P00209,Paola,Fernández,NA,,Gripe,Surco,30/06/2017
+P00210,María,Pérez,,F,Hipertensión,Cajamarca,19/04/2023
+P00211,Luis,García,35,NA,Migraña,Callao,03/01/2023
+P00212,Andrés,Ramírez,NA,NA,Hipertensión,NA,11/02/2021
+P00213,Xiomara,Pérez,,,NA,San Isidro,06/02/2021
+P00214,Paola,Torres,58,F,Asma,NA,23/04/2015
+P00215,Juan,Ramírez,NA,,Hipertensión,Miraflores,29/05/2016
+P00216,NA,García,,M,Migraña,Cajamarca,20/06/2020
+P00217,NA,Fernández,NA,M,,La Molina,07/02/2021
+P00218,José,García,42,M,Asma,La Molina,21/06/2023
+P00219,Andrés,Rojas,NA,NA,Asma,NA,14/02/2015
+P00220,Ana,Rojas,,NA,Migraña,La Molina,06/12/2024
+P00221,María,Fernández,NA,NA,Migraña,NA,28/09/2015
+P00222,NA,Rojas,,M,Asma,,27/08/2019
+P00223,Pedro,Fernández,NA,M,Hipertensión,Lince,15/01/2015
+P00224,Xiomara,Pérez,80,,Diabetes,Lince,02/10/2019
+P00225,José,Gómez,,M,Asma,Miraflores,09/07/2016
+P00226,Juan,Torres,NA,NA,Hipertensión,Callao,31/01/2015
+P00227,Lucía,García,NA,F,Gripe,Miraflores,24/07/2020
+P00228,Luis,Rojas,,M,,Cajamarca,26/07/2015
+P00229,José,Ramírez,NA,,Diabetes,La Molina,08/05/2020
+P00230,Paola,Gómez,,M,NA,Callao,23/10/2020
+P00231,Xiomara,Ramírez,NA,,Migraña,,21/01/2024
+P00232,María,NA,,M,Hipertensión,Callao,25/01/2020
+P00233,Andrés,Gómez,,F,Alergia,Surco,16/09/2015
+P00234,Ana,Gómez,,NA,Asma,Lince,25/08/2017
+P00235,Paola,Pérez,,M,Migraña,Surco,05/08/2020
+P00236,Andrés,Vargas,91,M,NA,La Molina,23/09/2022
+P00237,José,Pérez,NA,NA,Gripe,NA,16/01/2024
+P00238,NA,Ramírez,,F,Diabetes,Surco,05/02/2023
+P00239,Luis,NA,NA,NA,NA,Surco,30/09/2017
+P00240,José,Ramírez,NA,M,Gripe,Lince,20/10/2021
+P00241,Xiomara,Pérez,,,Hipertensión,La Molina,29/03/2023
+P00242,Andrés,NA,30,F,,Cajamarca,30/04/2021
+P00243,Andrés,Ramírez,NA,F,Gripe,La Molina,08/03/2019
+P00244,Ana,Ramírez,75,M,,San Isidro,27/12/2020
+P00245,Lucía,García,NA,NA,Asma,Callao,05/09/2020
+P00246,Ana,Vargas,,,Asma,Callao,09/08/2021
+P00247,Juan,García,NA,,NA,Surco,09/07/2021
+P00248,María,Fernández,NA,M,,,02/12/2023
+P00249,Andrés,Torres,71,F,Migraña,Lince,09/05/2015
+P00250,Ana,Vargas,,NA,Diabetes,Lince,15/04/2022
+P00251,Xiomara,García,NA,M,Diabetes,,01/10/2017
+P00252,Paola,Ramírez,NA,F,,Lince,11/05/2018
+P00253,Pedro,Torres,,NA,Migraña,San Isidro,14/08/2024
+P00254,Luis,Torres,NA,NA,Covid-19,La Molina,14/08/2016
+P00255,Lucía,Torres,93,NA,Covid-19,San Isidro,09/01/2016
+P00256,Andrés,Gómez,98,M,Gripe,San Isidro,30/03/2023
+P00257,Juan,Vargas,88,F,Alergia,La Molina,27/08/2022
+P00258,Juan,Gómez,NA,,Gripe,NA,21/12/2024
+P00259,Xiomara,Rojas,,M,Hipertensión,San Isidro,14/02/2024
+P00260,María,Gómez,,M,,Lince,18/10/2018
+P00261,María,Ramírez,16,,Covid-19,Callao,10/12/2024
+P00262,Juan,Vargas,,F,Asma,Miraflores,19/05/2016
+P00263,Paola,Vargas,,M,Covid-19,Miraflores,07/07/2017
+P00264,NA,Rojas,NA,NA,Covid-19,Callao,28/03/2019
+P00265,Lucía,García,NA,F,Asma,Callao,23/10/2022
+P00266,Xiomara,Rojas,5,F,Hipertensión,San Isidro,05/01/2017
+P00267,Pedro,Gómez,49,,Covid-19,,21/02/2020
+P00268,NA,Fernández,2,,Alergia,Surco,14/03/2022
+P00269,NA,Rojas,,F,Gripe,Surco,25/01/2021
+P00270,Pedro,Rojas,NA,M,Covid-19,NA,15/10/2017
+P00271,María,Gómez,NA,NA,Asma,,05/10/2015
+P00272,Paola,Vargas,57,M,Asma,Miraflores,20/04/2015
+P00273,NA,Rojas,NA,M,Gripe,La Molina,16/03/2016
+P00274,José,Ramírez,,F,Alergia,Miraflores,19/02/2017
+P00275,Juan,García,NA,F,Hipertensión,Cajamarca,11/01/2023
+P00276,NA,Vargas,,F,Covid-19,Cajamarca,01/03/2017
+P00277,José,Ramírez,NA,F,Covid-19,San Isidro,16/07/2017
+P00278,Lucía,Rojas,21,,Alergia,Miraflores,03/10/2024
+P00279,Xiomara,Vargas,,M,Asma,,02/02/2017
+P00280,Ana,Vargas,,F,Asma,San Isidro,18/04/2019
+P00281,Ana,Fernández,NA,M,Migraña,San Isidro,16/10/2015
+P00282,Juan,Ramírez,88,M,Alergia,Surco,08/03/2019
+P00283,Pedro,Rojas,NA,NA,Alergia,Cajamarca,11/07/2015
+P00284,NA,Ramírez,,F,Asma,Miraflores,18/01/2015
+P00285,Luis,Ramírez,,F,Hipertensión,San Isidro,17/12/2024
+P00286,Luis,Rojas,NA,F,,Cajamarca,05/02/2021
+P00287,Andrés,Vargas,28,M,Gripe,Cajamarca,27/02/2015
+P00288,Lucía,Pérez,,M,Asma,Callao,26/04/2017
+P00289,José,Torres,NA,,,Surco,08/07/2017
+P00290,María,Fernández,59,M,,Surco,22/12/2016
+P00291,José,Vargas,91,,Migraña,Callao,15/11/2022
+P00292,Pedro,Ramírez,NA,M,Hipertensión,Miraflores,22/11/2015
+P00293,Pedro,García,,M,Gripe,San Isidro,06/10/2019
+P00294,José,Ramírez,74,F,Asma,NA,19/10/2016
+P00295,Luis,Fernández,61,F,Hipertensión,Lince,02/11/2022
+P00296,María,Rojas,,NA,NA,,20/05/2024
+P00297,Paola,NA,NA,F,NA,San Isidro,03/03/2015
+P00298,Luis,Ramírez,NA,M,Migraña,Callao,18/01/2023
+P00299,Ana,Fernández,,NA,Asma,Callao,19/08/2021
+P00300,Luis,Vargas,,M,Alergia,Callao,05/01/2021
+P00301,Xiomara,García,45,,,San Isidro,03/03/2019
+P00302,Pedro,NA,NA,NA,Asma,Cajamarca,07/08/2020
+P00303,Luis,Ramírez,,NA,Covid-19,Callao,10/01/2021
+P00304,Ana,NA,,M,Diabetes,Cajamarca,26/03/2023
+P00305,Pedro,Ramírez,NA,F,Hipertensión,Miraflores,23/03/2021
+P00306,Luis,Ramírez,46,F,Diabetes,Cajamarca,25/09/2022
+P00307,NA,Torres,NA,F,Hipertensión,La Molina,06/01/2019
+P00308,Ana,Vargas,,NA,Hipertensión,,24/09/2022
+P00309,Lucía,García,,M,,Cajamarca,24/08/2018
+P00310,Xiomara,Vargas,54,NA,,,15/07/2017
+P00311,Juan,Pérez,,M,Hipertensión,NA,24/10/2023
+P00312,NA,Fernández,,NA,Covid-19,Callao,24/08/2024
+P00313,José,Pérez,98,M,Covid-19,San Isidro,02/01/2022
+P00314,Paola,Vargas,NA,F,Diabetes,Lince,09/05/2021
+P00315,Luis,García,80,NA,Covid-19,Lince,17/08/2018
+P00316,NA,Torres,NA,,NA,Callao,16/01/2022
+P00317,Pedro,Fernández,NA,NA,Diabetes,La Molina,16/08/2016
+P00318,María,NA,85,,Asma,La Molina,02/11/2016
+P00319,NA,NA,NA,,NA,,17/07/2019
+P00320,Pedro,Vargas,54,,Diabetes,La Molina,06/03/2022
+P00321,José,García,100,NA,Migraña,Miraflores,02/06/2016
+P00322,José,Fernández,3,F,Gripe,Miraflores,26/01/2020
+P00323,Pedro,Torres,NA,NA,Migraña,San Isidro,09/06/2015
+P00324,Andrés,Fernández,NA,F,Alergia,Miraflores,11/12/2015
+P00325,Lucía,Rojas,52,M,Covid-19,La Molina,05/03/2017
+P00326,Juan,NA,,,Migraña,San Isidro,16/09/2015
+P00327,Luis,Torres,,,Migraña,Lince,31/03/2023
+P00328,María,Vargas,27,NA,Hipertensión,Callao,01/05/2024
+P00329,Ana,Pérez,99,M,NA,Callao,07/04/2018
+P00330,Luis,Pérez,,,Asma,Callao,19/04/2019
+P00331,José,Fernández,,NA,Migraña,Cajamarca,13/12/2023
+P00332,María,García,NA,,Alergia,San Isidro,22/05/2018
+P00333,Luis,Rojas,NA,NA,NA,Miraflores,18/01/2015
+P00334,Xiomara,Rojas,6,NA,Diabetes,Lince,17/02/2019
+P00335,Luis,García,40,F,Diabetes,NA,17/03/2015
+P00336,José,Torres,40,NA,Migraña,Cajamarca,25/05/2017
+P00337,Ana,Vargas,,NA,Diabetes,Callao,08/06/2024
+P00338,Andrés,NA,,F,Migraña,San Isidro,22/04/2021
+P00339,Luis,NA,NA,F,Gripe,,26/04/2015
+P00340,Xiomara,Torres,15,M,Alergia,Miraflores,27/08/2019
+P00341,Ana,Torres,,,Covid-19,Callao,11/02/2017
+P00342,Pedro,Pérez,86,M,Diabetes,Cajamarca,24/01/2022
+P00343,Paola,NA,,M,NA,Cajamarca,02/11/2021
+P00344,José,García,,M,NA,Lince,25/11/2018
+P00345,NA,Gómez,,M,Asma,Miraflores,12/01/2017
+P00346,Paola,Vargas,65,,Migraña,,30/03/2022
+P00347,Lucía,Rojas,,,Hipertensión,Callao,11/08/2019
+P00348,Lucía,NA,42,NA,Covid-19,,22/11/2016
+P00349,María,Pérez,NA,NA,Diabetes,Surco,20/08/2020
+P00350,Andrés,Gómez,NA,,Alergia,Callao,11/12/2016
+P00351,Pedro,Rojas,24,F,Migraña,Miraflores,02/03/2023
+P00352,NA,NA,23,NA,Diabetes,San Isidro,23/06/2020
+P00353,María,Gómez,NA,NA,,Callao,15/06/2024
+P00354,Lucía,García,NA,F,Asma,Lince,23/06/2022
+P00355,Xiomara,Torres,NA,,Alergia,Cajamarca,29/03/2016
+P00356,José,NA,33,M,Hipertensión,La Molina,05/12/2022
+P00357,Lucía,Torres,87,NA,Gripe,Surco,20/12/2016
+P00358,Ana,Rojas,,F,Alergia,La Molina,29/05/2015
+P00359,José,Gómez,NA,F,Gripe,Cajamarca,29/03/2015
+P00360,Ana,Ramírez,50,F,Gripe,NA,26/11/2015
+P00361,María,Pérez,,M,Hipertensión,NA,23/07/2020
+P00362,Pedro,Torres,31,M,Migraña,Lince,16/01/2016
+P00363,Juan,Pérez,,,Alergia,La Molina,31/10/2023
+P00364,Pedro,Torres,74,,Gripe,Lince,09/01/2023
+P00365,Ana,García,NA,,Alergia,La Molina,08/03/2019
+P00366,Paola,NA,80,M,Hipertensión,La Molina,22/06/2015
+P00367,José,Pérez,23,M,Migraña,Surco,04/04/2015
+P00368,Paola,García,52,,NA,NA,19/06/2022
+P00369,NA,Vargas,44,F,Hipertensión,Surco,18/03/2021
+P00370,Pedro,Rojas,,F,NA,NA,18/11/2024
+P00371,José,Vargas,NA,M,NA,San Isidro,12/10/2018
+P00372,Xiomara,Gómez,69,M,Migraña,San Isidro,29/11/2018
+P00373,Ana,Torres,NA,,Gripe,Surco,16/12/2015
+P00374,Andrés,Vargas,79,M,Diabetes,Miraflores,11/12/2015
+P00375,Andrés,Pérez,NA,M,Alergia,Surco,09/12/2016
+P00376,Luis,NA,10,NA,Diabetes,Callao,10/09/2015
+P00377,José,Gómez,,F,Migraña,Surco,26/05/2023
+P00378,María,Rojas,,NA,Hipertensión,San Isidro,22/08/2015
+P00379,Lucía,NA,NA,,Alergia,La Molina,21/05/2023
+P00380,Pedro,García,,F,Gripe,Surco,11/04/2016
+P00381,NA,García,,,Gripe,Surco,15/01/2022
+P00382,Ana,Rojas,NA,,Asma,NA,12/03/2024
+P00383,Ana,Rojas,NA,NA,,Surco,19/02/2015
+P00384,María,Rojas,NA,M,Gripe,Cajamarca,26/10/2020
+P00385,María,Ramírez,NA,NA,Gripe,La Molina,15/03/2021
+P00386,Xiomara,Ramírez,,M,Asma,Cajamarca,03/07/2023
+P00387,Paola,Ramírez,,,Migraña,Lince,08/04/2017
+P00388,Luis,Ramírez,NA,,Migraña,,02/07/2021
+P00389,Ana,NA,,NA,Hipertensión,Cajamarca,07/06/2021
+P00390,María,Vargas,60,NA,Gripe,Callao,02/10/2024
+P00391,NA,Vargas,88,F,Diabetes,Cajamarca,24/08/2019
+P00392,Ana,Rojas,NA,NA,Migraña,Surco,20/05/2019
+P00393,Andrés,García,,,,San Isidro,26/12/2017
+P00394,Andrés,Ramírez,85,,Hipertensión,Miraflores,20/10/2015
+P00395,Ana,Ramírez,NA,,Migraña,NA,03/11/2022
+P00396,Juan,Vargas,31,M,Diabetes,La Molina,22/01/2020
+P00397,Ana,Rojas,56,NA,NA,NA,28/11/2018
+P00398,Andrés,Ramírez,NA,NA,Migraña,La Molina,06/06/2017
+P00399,NA,Fernández,NA,,Alergia,Lince,23/07/2015
+P00400,María,Vargas,NA,F,Diabetes,Cajamarca,19/03/2021
+P00401,Andrés,García,NA,F,Covid-19,Miraflores,24/06/2020
+P00402,Juan,García,20,M,,Callao,28/06/2016
+P00403,Andrés,Torres,NA,F,Hipertensión,Callao,28/09/2018
+P00404,Paola,Vargas,,NA,Asma,Miraflores,23/01/2015
+P00405,Paola,Pérez,3,F,NA,La Molina,09/06/2021
+P00406,Juan,Pérez,61,,NA,Callao,18/04/2021
+P00407,Andrés,NA,43,F,NA,Surco,01/11/2024
+P00408,Xiomara,García,NA,M,,Cajamarca,16/11/2017
+P00409,Lucía,Ramírez,,F,Alergia,San Isidro,27/05/2019
+P00410,María,NA,17,F,Covid-19,La Molina,03/04/2016
+P00411,Paola,NA,,,NA,La Molina,28/09/2017
+P00412,José,Pérez,24,F,Hipertensión,San Isidro,07/11/2024
+P00413,María,NA,89,M,,Lince,17/03/2020
+P00414,Andrés,García,96,F,Gripe,Lince,28/12/2021
+P00415,Juan,Vargas,26,,Asma,Lince,02/03/2018
+P00416,Luis,Rojas,24,M,Diabetes,,11/01/2017
+P00417,Ana,Pérez,75,M,Diabetes,San Isidro,28/08/2023
+P00418,Paola,Fernández,74,,Migraña,Cajamarca,04/02/2015
+P00419,María,NA,,,,La Molina,10/07/2017
+P00420,Luis,García,NA,,Diabetes,La Molina,24/06/2021
+P00421,Lucía,Ramírez,NA,,Gripe,NA,12/06/2021
+P00422,Pedro,Gómez,NA,NA,NA,Surco,10/10/2023
+P00423,Paola,Gómez,,M,Diabetes,NA,18/09/2016
+P00424,Andrés,Fernández,NA,F,Migraña,NA,27/06/2016
+P00425,NA,Fernández,,F,Alergia,NA,08/05/2020
+P00426,Ana,Fernández,,M,Diabetes,Callao,18/04/2015
+P00427,Pedro,Gómez,,F,Alergia,Surco,12/12/2024
+P00428,Xiomara,Vargas,,M,,,13/08/2017
+P00429,Paola,Fernández,0,NA,Migraña,La Molina,12/06/2017
+P00430,Pedro,Vargas,,NA,Migraña,Lince,15/06/2022
+P00431,Luis,Pérez,77,NA,NA,Miraflores,22/02/2023
+P00432,José,Torres,NA,F,Alergia,San Isidro,14/11/2021
+P00433,NA,Torres,,M,Migraña,Miraflores,08/04/2022
+P00434,NA,Rojas,,,Diabetes,La Molina,26/06/2020
+P00435,Luis,García,NA,M,Covid-19,Miraflores,21/04/2018
+P00436,Ana,García,,M,Gripe,,18/09/2021
+P00437,José,Torres,,M,Hipertensión,Miraflores,14/06/2019
+P00438,NA,NA,,NA,Hipertensión,Callao,28/02/2021
+P00439,Ana,Ramírez,74,M,Asma,Lince,27/04/2020
+P00440,Paola,Gómez,84,,Gripe,San Isidro,12/08/2016
+P00441,Pedro,García,NA,F,Asma,San Isidro,29/10/2022
+P00442,Pedro,Fernández,NA,M,Covid-19,NA,18/02/2023
+P00443,José,García,,F,Migraña,,10/10/2021
+P00444,Lucía,Pérez,,NA,Diabetes,Miraflores,08/06/2015
+P00445,Pedro,Ramírez,73,M,,Callao,02/08/2023
+P00446,Luis,Rojas,NA,NA,NA,Callao,08/01/2020
+P00447,NA,Torres,65,NA,Hipertensión,La Molina,19/09/2019
+P00448,Juan,García,5,NA,NA,Lince,13/01/2018
+P00449,Pedro,Rojas,NA,NA,Alergia,Callao,21/10/2018
+P00450,Juan,Ramírez,50,F,Hipertensión,Surco,31/07/2019
+P00451,José,Ramírez,,M,NA,Callao,11/10/2018
+P00452,Luis,NA,,,Gripe,NA,31/01/2020
+P00453,Luis,NA,,,Migraña,San Isidro,07/07/2021
+P00454,Xiomara,Ramírez,95,F,Gripe,Surco,29/03/2022
+P00455,Xiomara,NA,,NA,Gripe,NA,19/03/2017
+P00456,NA,Ramírez,27,NA,,Callao,25/12/2016
+P00457,NA,Pérez,,M,Migraña,Miraflores,16/05/2018
+P00458,José,Ramírez,NA,F,NA,San Isidro,24/10/2022
+P00459,José,Gómez,,,Migraña,Cajamarca,22/08/2018
+P00460,Lucía,Gómez,37,NA,NA,La Molina,23/10/2015
+P00461,José,Ramírez,,M,Hipertensión,Cajamarca,10/03/2018
+P00462,NA,NA,,,Asma,Callao,25/08/2016
+P00463,NA,Ramírez,,,,Surco,02/10/2018
+P00464,Juan,Fernández,,M,,Cajamarca,17/02/2016
+P00465,Andrés,García,7,NA,Diabetes,NA,05/09/2017
+P00466,Luis,García,24,M,Gripe,Miraflores,17/09/2022
+P00467,Pedro,Pérez,NA,M,,Surco,21/03/2024
+P00468,María,García,,,Gripe,Lince,08/02/2016
+P00469,NA,Pérez,19,F,Migraña,Cajamarca,10/04/2019
+P00470,Lucía,Fernández,,F,Migraña,La Molina,11/02/2021
+P00471,Andrés,Torres,,F,,,17/02/2015
+P00472,Lucía,Vargas,,F,Diabetes,Surco,22/07/2019
+P00473,María,Fernández,68,F,Migraña,San Isidro,10/07/2018
+P00474,Ana,Vargas,,F,Migraña,NA,09/08/2015
+P00475,Paola,Fernández,,M,Hipertensión,San Isidro,22/10/2020
+P00476,Pedro,Fernández,,M,Diabetes,Cajamarca,14/09/2016
+P00477,Paola,García,1,NA,Hipertensión,La Molina,06/11/2016
+P00478,NA,Pérez,NA,F,Covid-19,Callao,05/05/2017
+P00479,José,Pérez,,,Gripe,San Isidro,20/09/2021
+P00480,María,García,,M,Asma,Cajamarca,20/08/2024
+P00481,Pedro,Pérez,10,,Gripe,Miraflores,30/03/2024
+P00482,José,Gómez,,F,Covid-19,Miraflores,25/09/2017
+P00483,José,Gómez,,M,Diabetes,Callao,15/07/2016
+P00484,Pedro,Gómez,,NA,Gripe,NA,15/08/2020
+P00485,Ana,Vargas,,F,Diabetes,,05/06/2024
+P00486,Paola,NA,,M,Alergia,San Isidro,30/03/2019
+P00487,Juan,Gómez,,M,Diabetes,San Isidro,02/07/2019
+P00488,José,Fernández,48,M,NA,Miraflores,22/01/2016
+P00489,Paola,Ramírez,NA,M,NA,Lince,05/06/2020
+P00490,María,NA,NA,NA,Alergia,Surco,08/06/2016
+P00491,Ana,Pérez,99,M,Asma,San Isidro,22/05/2015
+P00492,Ana,Rojas,77,NA,Diabetes,Miraflores,27/06/2019
+P00493,Juan,García,,F,Diabetes,Miraflores,26/03/2018
+P00494,María,García,,NA,Gripe,Callao,24/05/2024
+P00495,Paola,Gómez,NA,NA,NA,Miraflores,23/02/2022
+P00496,Andrés,García,NA,F,Covid-19,Callao,11/08/2016
+P00497,Xiomara,Vargas,NA,,Covid-19,Surco,11/11/2020
+P00498,Xiomara,Rojas,,NA,NA,,01/11/2017
+P00499,Pedro,NA,NA,,Gripe,Lince,06/02/2018
+P00500,Pedro,NA,,M,Diabetes,Lince,21/03/2017
+P00501,Lucía,García,,NA,Asma,NA,05/12/2023
+P00502,José,Gómez,,,NA,San Isidro,10/03/2020
+P00503,Xiomara,Ramírez,73,M,Migraña,Callao,13/06/2021
+P00504,NA,Torres,,M,Alergia,NA,11/08/2019
+P00505,Juan,Gómez,,M,Diabetes,Surco,15/07/2023
+P00506,Pedro,Fernández,71,F,Gripe,Callao,26/08/2020
+P00507,Andrés,Pérez,NA,,,San Isidro,08/11/2018
+P00508,María,Rojas,73,NA,,San Isidro,04/10/2021
+P00509,NA,Rojas,,F,NA,Miraflores,30/12/2015
+P00510,Juan,NA,,M,Migraña,La Molina,28/07/2023
+P00511,NA,NA,NA,F,NA,Surco,27/12/2023
+P00512,María,Pérez,NA,F,Alergia,Lince,11/05/2021
+P00513,Ana,Vargas,NA,M,Asma,La Molina,18/11/2016
+P00514,Ana,Gómez,NA,F,Gripe,NA,05/03/2021
+P00515,Lucía,Vargas,,NA,Alergia,Callao,05/06/2019
+P00516,Xiomara,Rojas,38,F,Diabetes,Lince,06/01/2019
+P00517,Paola,Torres,NA,,Diabetes,La Molina,24/05/2022
+P00518,Paola,García,41,M,,La Molina,02/08/2020
+P00519,Lucía,Ramírez,4,M,,Miraflores,29/10/2020
+P00520,María,Torres,28,NA,Migraña,Lince,13/04/2019
+P00521,Paola,Gómez,78,,Hipertensión,San Isidro,14/09/2020
+P00522,Paola,Torres,39,M,,,18/07/2015
+P00523,Luis,García,14,M,NA,NA,06/11/2016
+P00524,José,Rojas,,,Diabetes,,06/02/2016
+P00525,NA,Rojas,,M,Asma,Miraflores,06/02/2020
+P00526,María,Rojas,,,Alergia,Surco,08/04/2017
+P00527,María,Pérez,28,NA,Gripe,Surco,28/06/2021
+P00528,Juan,Torres,,F,,Callao,06/02/2024
+P00529,María,Fernández,NA,NA,Alergia,,05/07/2016
+P00530,Paola,Gómez,NA,,Asma,Callao,09/12/2019
+P00531,Paola,Vargas,77,,Migraña,Miraflores,16/08/2022
+P00532,Pedro,Gómez,,,Asma,Cajamarca,26/12/2024
+P00533,Pedro,Ramírez,,,Covid-19,Cajamarca,12/12/2019
+P00534,Andrés,Fernández,78,NA,Asma,Miraflores,02/09/2022
+P00535,Andrés,Ramírez,,,Alergia,,11/01/2015
+P00536,NA,Vargas,,,Gripe,Surco,08/11/2023
+P00537,José,NA,NA,M,Hipertensión,NA,29/09/2017
+P00538,Ana,Ramírez,,NA,Gripe,Surco,18/09/2019
+P00539,Lucía,Ramírez,,NA,,,14/07/2021
+P00540,Andrés,NA,12,NA,Covid-19,San Isidro,12/05/2019
+P00541,José,Torres,,M,Asma,Miraflores,05/06/2024
+P00542,Andrés,NA,,NA,Asma,Miraflores,25/07/2019
+P00543,NA,Ramírez,10,,Alergia,San Isidro,26/12/2019
+P00544,NA,Ramírez,,M,Hipertensión,Surco,03/06/2023
+P00545,María,Rojas,,M,NA,Lince,08/11/2022
+P00546,Paola,Ramírez,NA,M,Asma,NA,15/02/2017
+P00547,María,Vargas,,,Alergia,,29/11/2020
+P00548,Lucía,NA,,F,,Cajamarca,23/01/2022
+P00549,Luis,Fernández,NA,M,Alergia,La Molina,24/09/2020
+P00550,Juan,Rojas,NA,NA,Covid-19,La Molina,30/08/2017
+P00551,Juan,Fernández,40,NA,Covid-19,San Isidro,23/09/2017
+P00552,Paola,Fernández,NA,F,Diabetes,,27/06/2015
+P00553,José,Gómez,,,Diabetes,NA,18/06/2017
+P00554,José,García,100,M,Gripe,Lince,04/11/2022
+P00555,Xiomara,Torres,83,F,,La Molina,03/04/2021
+P00556,Xiomara,Vargas,100,M,Gripe,Cajamarca,27/12/2022
+P00557,Paola,Rojas,89,NA,NA,Cajamarca,16/08/2018
+P00558,Xiomara,García,,F,Gripe,Callao,27/10/2016
+P00559,Pedro,Ramírez,,NA,Hipertensión,,27/08/2019
+P00560,NA,Rojas,,F,Covid-19,La Molina,03/10/2022
+P00561,María,Torres,,M,NA,Cajamarca,18/05/2021
+P00562,Juan,Pérez,NA,F,Hipertensión,Cajamarca,01/01/2015
+P00563,NA,García,50,F,Diabetes,NA,20/04/2018
+P00564,María,NA,,,Covid-19,Lince,06/01/2022
+P00565,NA,Ramírez,NA,F,Hipertensión,Callao,31/05/2018
+P00566,Luis,García,,M,Diabetes,San Isidro,29/01/2018
+P00567,Lucía,Torres,,F,Gripe,Surco,18/07/2017
+P00568,Xiomara,Pérez,NA,M,,Lince,01/12/2024
+P00569,Lucía,Fernández,83,NA,Asma,,25/04/2024
+P00570,Pedro,Torres,78,,Alergia,Surco,09/01/2022
+P00571,Luis,García,NA,F,Asma,,11/08/2021
+P00572,Andrés,Fernández,96,NA,Gripe,Surco,22/01/2024
+P00573,Paola,Vargas,NA,M,NA,Callao,30/03/2016
+P00574,Paola,Vargas,,M,Gripe,San Isidro,19/01/2017
+P00575,Paola,Ramírez,18,F,Hipertensión,San Isidro,12/04/2022
+P00576,Pedro,Pérez,,,Diabetes,Cajamarca,01/03/2015
+P00577,Pedro,Gómez,NA,M,Gripe,San Isidro,02/10/2023
+P00578,Paola,Ramírez,,,Gripe,San Isidro,09/07/2015
+P00579,Pedro,Rojas,19,,NA,NA,20/12/2019
+P00580,Juan,Gómez,NA,,Hipertensión,La Molina,28/03/2018
+P00581,NA,Pérez,NA,NA,Alergia,San Isidro,12/03/2021
+P00582,María,García,79,M,,Callao,14/02/2020
+P00583,Andrés,NA,,,Gripe,,30/11/2016
+P00584,Juan,Vargas,18,M,,Lince,13/03/2023
+P00585,José,Rojas,13,F,Asma,Lince,06/08/2016
+P00586,José,NA,95,,Hipertensión,Miraflores,29/03/2016
+P00587,Paola,Vargas,39,NA,Diabetes,Cajamarca,07/12/2016
+P00588,Xiomara,Fernández,NA,NA,Migraña,NA,23/08/2016
+P00589,NA,Vargas,NA,NA,Gripe,Lince,03/11/2024
+P00590,Andrés,Rojas,68,F,Hipertensión,NA,18/01/2022
+P00591,Xiomara,Torres,NA,,Asma,Callao,26/10/2018
+P00592,Lucía,Rojas,,F,,,19/06/2018
+P00593,NA,Vargas,,M,,Surco,10/12/2020
+P00594,Juan,Pérez,59,,Gripe,Miraflores,14/01/2022
+P00595,José,Fernández,,,Alergia,NA,27/11/2018
+P00596,José,NA,,NA,Gripe,Callao,17/01/2019
+P00597,Andrés,Gómez,,M,Asma,San Isidro,09/08/2019
+P00598,Ana,Rojas,,NA,Diabetes,San Isidro,04/09/2016
+P00599,Xiomara,Ramírez,,NA,NA,Callao,15/12/2016
+P00600,Lucía,Fernández,,NA,Migraña,La Molina,14/02/2018
+P00601,Lucía,Vargas,NA,,Hipertensión,San Isidro,05/07/2024
+P00602,María,Vargas,NA,F,Alergia,Cajamarca,25/08/2020
+P00603,Ana,García,NA,F,Alergia,,17/08/2017
+P00604,Andrés,Rojas,90,NA,Diabetes,NA,19/10/2020
+P00605,Andrés,Rojas,NA,NA,Asma,Lince,04/06/2023
+P00606,María,Vargas,19,F,NA,Callao,15/04/2019
+P00607,Paola,Vargas,,,Asma,San Isidro,10/08/2015
+P00608,Pedro,Fernández,,NA,NA,Surco,05/07/2017
+P00609,Paola,Rojas,45,NA,Covid-19,Callao,11/06/2024
+P00610,NA,Fernández,,F,Gripe,,12/11/2015
+P00611,NA,NA,NA,NA,Asma,San Isidro,27/12/2022
+P00612,NA,Torres,49,,Covid-19,Callao,19/03/2023
+P00613,Lucía,NA,NA,NA,NA,Miraflores,18/10/2015
+P00614,José,García,56,NA,Gripe,San Isidro,12/06/2018
+P00615,Lucía,Pérez,80,,Gripe,San Isidro,05/02/2023
+P00616,NA,Rojas,15,M,Asma,Callao,14/01/2022
+P00617,José,Rojas,NA,,Alergia,La Molina,03/07/2017
+P00618,José,García,11,,Alergia,NA,12/02/2015
+P00619,José,García,,M,Asma,NA,08/01/2015
+P00620,José,Pérez,15,F,Gripe,Surco,29/03/2022
+P00621,NA,Torres,89,,Alergia,Surco,05/11/2015
+P00622,María,Rojas,NA,,Migraña,,08/09/2023
+P00623,Pedro,Ramírez,NA,,Alergia,NA,16/04/2018
+P00624,Juan,Gómez,89,NA,Diabetes,,29/06/2022
+P00625,NA,Ramírez,84,NA,Hipertensión,NA,26/11/2021
+P00626,Xiomara,Pérez,NA,NA,Asma,Cajamarca,04/08/2023
+P00627,Luis,Vargas,49,,Diabetes,,14/02/2022
+P00628,Juan,Pérez,58,M,Hipertensión,Miraflores,18/02/2017
+P00629,Andrés,Vargas,,,Alergia,,12/09/2015
+P00630,Juan,NA,66,M,Asma,Cajamarca,12/12/2022
+P00631,Lucía,García,,M,Hipertensión,San Isidro,10/09/2017
+P00632,Juan,García,,,Hipertensión,Miraflores,03/06/2020
+P00633,María,Rojas,NA,F,Hipertensión,La Molina,19/12/2015
+P00634,Paola,Gómez,,M,Migraña,NA,14/01/2022
+P00635,Andrés,Fernández,,NA,Covid-19,,18/07/2019
+P00636,NA,Rojas,,,Alergia,,13/07/2022
+P00637,NA,Vargas,,F,Diabetes,Miraflores,07/07/2020
+P00638,María,Rojas,48,,Migraña,Lince,27/04/2020
+P00639,NA,Vargas,NA,M,Alergia,Lince,17/04/2017
+P00640,NA,Ramírez,,F,Migraña,Cajamarca,14/09/2015
+P00641,Xiomara,Pérez,NA,F,Diabetes,Callao,18/04/2018
+P00642,NA,Vargas,3,M,Diabetes,San Isidro,09/04/2015
+P00643,María,Gómez,NA,F,Gripe,,13/10/2023
+P00644,Ana,Rojas,,F,Diabetes,Lince,20/07/2022
+P00645,Paola,Torres,NA,F,Alergia,Lince,18/10/2024
+P00646,Pedro,Ramírez,79,F,Covid-19,Miraflores,04/06/2018
+P00647,José,Rojas,10,,Migraña,La Molina,01/12/2020
+P00648,Paola,García,,M,Alergia,La Molina,22/03/2019
+P00649,NA,Vargas,,NA,Migraña,San Isidro,13/02/2018
+P00650,Lucía,Vargas,,F,Asma,NA,12/10/2021
+P00651,Juan,NA,49,,Hipertensión,,21/02/2021
+P00652,Luis,García,NA,F,Covid-19,La Molina,13/09/2017
+P00653,Lucía,Pérez,91,M,NA,San Isidro,06/09/2018
+P00654,Pedro,García,,NA,Hipertensión,,24/10/2023
+P00655,Juan,Pérez,73,F,NA,Lince,17/08/2024
+P00656,NA,Rojas,NA,F,Hipertensión,Miraflores,13/03/2015
+P00657,Lucía,Vargas,62,NA,Covid-19,Cajamarca,21/04/2022
+P00658,Pedro,Gómez,NA,M,NA,San Isidro,26/08/2019
+P00659,Juan,Torres,39,M,Alergia,Callao,08/06/2016
+P00660,Lucía,Fernández,48,NA,,NA,27/10/2021
+P00661,José,Fernández,,,NA,NA,04/03/2015
+P00662,Juan,García,36,NA,Diabetes,La Molina,22/12/2018
+P00663,NA,Ramírez,52,M,Migraña,,29/04/2022
+P00664,Xiomara,García,NA,M,,Callao,29/11/2018
+P00665,Pedro,Gómez,,,Hipertensión,Lince,29/06/2016
+P00666,María,Torres,NA,M,Alergia,La Molina,20/11/2021
+P00667,Paola,NA,NA,F,Gripe,Cajamarca,07/05/2019
+P00668,Xiomara,NA,NA,NA,Gripe,Cajamarca,05/01/2023
+P00669,Luis,Vargas,9,,Asma,Surco,06/06/2015
+P00670,Lucía,Fernández,15,,Covid-19,Cajamarca,21/04/2020
+P00671,Ana,NA,45,,Diabetes,La Molina,14/03/2020
+P00672,Xiomara,Torres,82,NA,Alergia,Cajamarca,01/12/2019
+P00673,José,Torres,,F,Gripe,Cajamarca,21/09/2018
+P00674,Xiomara,Torres,,F,Gripe,Cajamarca,06/06/2016
+P00675,NA,Vargas,NA,NA,Diabetes,Surco,16/10/2024
+P00676,Paola,Gómez,,F,Covid-19,Miraflores,21/05/2022
+P00677,Juan,Rojas,37,F,Gripe,Miraflores,27/04/2016
+P00678,Ana,NA,,,Migraña,La Molina,06/06/2019
+P00679,María,Gómez,,,Gripe,Cajamarca,21/05/2016
+P00680,Ana,Pérez,,,NA,NA,24/12/2015
+P00681,Andrés,Torres,84,,Diabetes,Callao,15/06/2015
+P00682,José,Pérez,,F,Covid-19,Cajamarca,08/02/2020
+P00683,Xiomara,Vargas,NA,,Hipertensión,NA,05/08/2024
+P00684,Juan,Torres,NA,M,Hipertensión,Lince,16/06/2022
+P00685,José,Rojas,53,M,Gripe,NA,16/01/2024
+P00686,Luis,NA,NA,F,,,29/04/2019
+P00687,Luis,NA,43,M,NA,Callao,27/04/2015
+P00688,Andrés,Ramírez,66,M,,Lince,07/08/2021
+P00689,Xiomara,Fernández,,NA,Covid-19,NA,18/07/2023
+P00690,Ana,NA,,F,Gripe,,07/10/2024
+P00691,Ana,García,NA,F,NA,Cajamarca,23/07/2016
+P00692,Luis,Ramírez,,M,Migraña,Miraflores,26/04/2024
+P00693,NA,Torres,,F,NA,San Isidro,11/05/2018
+P00694,NA,Torres,NA,F,Hipertensión,San Isidro,25/11/2023
+P00695,NA,Fernández,NA,,NA,La Molina,09/08/2016
+P00696,Ana,Pérez,NA,M,Alergia,San Isidro,07/04/2019
+P00697,NA,Vargas,NA,NA,Gripe,San Isidro,14/10/2017
+P00698,NA,Vargas,,,NA,Cajamarca,24/04/2023
+P00699,Ana,Rojas,NA,F,Covid-19,Lince,04/05/2018
+P00700,Juan,García,,F,Alergia,Miraflores,08/10/2016
+P00701,Andrés,Fernández,,,Asma,Miraflores,21/10/2018
+P00702,Xiomara,Rojas,NA,M,Covid-19,Surco,10/07/2023
+P00703,Juan,Vargas,,M,Hipertensión,Lince,21/04/2017
+P00704,José,Fernández,93,NA,,Callao,06/04/2016
+P00705,Xiomara,NA,79,NA,Diabetes,Miraflores,25/12/2023
+P00706,Luis,Rojas,,F,Covid-19,,05/02/2017
+P00707,NA,NA,,F,Covid-19,,28/07/2021
+P00708,Pedro,Torres,NA,,Covid-19,San Isidro,17/03/2024
+P00709,Andrés,Pérez,,,Gripe,La Molina,07/12/2017
+P00710,Juan,Fernández,NA,,Diabetes,Lince,03/01/2023
+P00711,Luis,Torres,15,M,Covid-19,Cajamarca,23/06/2022
+P00712,Pedro,Vargas,,F,Migraña,La Molina,23/03/2017
+P00713,Paola,Torres,,NA,Migraña,Lince,10/04/2016
+P00714,NA,García,NA,M,Hipertensión,NA,13/01/2019
+P00715,Juan,Torres,,,Gripe,San Isidro,30/03/2019
+P00716,Lucía,Fernández,NA,M,Alergia,San Isidro,15/06/2021
+P00717,Xiomara,Fernández,NA,M,Hipertensión,Callao,18/10/2021
+P00718,Pedro,Ramírez,,F,,Lince,05/04/2016
+P00719,José,Pérez,,,Diabetes,,04/11/2020
+P00720,Juan,NA,NA,NA,Alergia,Surco,18/09/2019
+P00721,Andrés,Vargas,,,Asma,Surco,14/11/2017
+P00722,José,García,,,,,13/11/2016
+P00723,María,Gómez,NA,,Migraña,Callao,09/12/2020
+P00724,José,Pérez,59,F,,Miraflores,06/11/2024
+P00725,María,García,,F,Alergia,Surco,20/04/2023
+P00726,Xiomara,Fernández,,,Gripe,Callao,27/07/2016
+P00727,NA,Ramírez,,F,Covid-19,Cajamarca,30/12/2022
+P00728,Xiomara,NA,98,M,Alergia,Callao,08/07/2016
+P00729,María,Pérez,11,M,Gripe,San Isidro,28/01/2024
+P00730,Luis,NA,,NA,Asma,Callao,30/07/2024
+P00731,Paola,Pérez,27,,Diabetes,Miraflores,27/12/2020
+P00732,Luis,Vargas,77,,,Miraflores,26/07/2015
+P00733,Ana,Torres,92,,NA,Cajamarca,23/09/2020
+P00734,Luis,Gómez,36,,Covid-19,Miraflores,12/12/2019
+P00735,Pedro,Ramírez,,,,Lince,26/06/2015
+P00736,Xiomara,Rojas,,M,Diabetes,Surco,09/06/2018
+P00737,Paola,Pérez,NA,NA,NA,Lince,01/07/2016
+P00738,Ana,García,,F,Diabetes,Callao,12/08/2019
+P00739,María,García,NA,M,Gripe,Cajamarca,22/03/2016
+P00740,Paola,Gómez,,F,Alergia,NA,04/01/2021
+P00741,Pedro,NA,,M,NA,Callao,06/10/2021
+P00742,Ana,Gómez,NA,M,Hipertensión,Miraflores,11/06/2024
+P00743,Juan,Ramírez,,M,Hipertensión,Miraflores,19/03/2024
+P00744,Lucía,Ramírez,,M,Migraña,,18/06/2023
+P00745,Andrés,Rojas,73,,Gripe,Miraflores,15/12/2023
+P00746,José,Torres,,NA,Alergia,NA,28/01/2017
+P00747,Pedro,Gómez,,F,Diabetes,Cajamarca,10/08/2016
+P00748,Xiomara,Gómez,12,M,Alergia,Callao,28/01/2023
+P00749,José,García,NA,NA,Migraña,La Molina,19/02/2015
+P00750,Juan,García,,M,Hipertensión,San Isidro,18/11/2016
+P00751,José,Gómez,NA,NA,Hipertensión,Lince,15/09/2021
+P00752,Lucía,García,NA,NA,NA,NA,12/05/2023
+P00753,Ana,Fernández,,F,Asma,NA,06/08/2021
+P00754,Lucía,Fernández,,,,Lince,29/12/2015
+P00755,José,Ramírez,,NA,Asma,,11/10/2024
+P00756,María,Fernández,NA,,Hipertensión,Cajamarca,22/01/2018
+P00757,Juan,Rojas,NA,M,,Surco,19/02/2018
+P00758,Lucía,Torres,,F,Asma,Callao,31/01/2022
+P00759,Juan,Torres,,,Asma,,11/11/2021
+P00760,Xiomara,Fernández,,M,,La Molina,02/03/2024
+P00761,Andrés,Rojas,70,NA,Diabetes,La Molina,22/09/2023
+P00762,Andrés,Pérez,,M,NA,Lince,01/06/2015
+P00763,Pedro,Torres,,,Asma,Callao,14/08/2019
+P00764,Andrés,NA,,M,Gripe,NA,24/04/2021
+P00765,José,Rojas,3,NA,Alergia,Miraflores,22/07/2022
+P00766,NA,Gómez,,M,Migraña,San Isidro,30/09/2024
+P00767,Paola,Gómez,22,,Migraña,Lince,17/07/2022
+P00768,NA,Torres,NA,M,Hipertensión,,14/09/2018
+P00769,NA,Fernández,48,NA,Alergia,,20/02/2016
+P00770,Xiomara,Gómez,57,NA,Diabetes,Callao,22/12/2023
+P00771,Juan,Ramírez,NA,NA,Migraña,Miraflores,12/05/2024
+P00772,NA,NA,,,Asma,San Isidro,20/11/2021
+P00773,José,Vargas,NA,M,NA,,21/06/2019
+P00774,Andrés,Pérez,,M,Gripe,Cajamarca,15/08/2024
+P00775,Pedro,Pérez,39,M,Migraña,La Molina,05/10/2019
+P00776,María,Pérez,NA,M,Alergia,NA,01/12/2021
+P00777,Xiomara,NA,NA,NA,Alergia,San Isidro,03/11/2019
+P00778,Luis,Rojas,89,M,Asma,Lince,01/09/2022
+P00779,Paola,García,NA,F,Asma,,06/03/2020
+P00780,Luis,Vargas,40,NA,Covid-19,Callao,25/11/2015
+P00781,Xiomara,Vargas,47,,Asma,Cajamarca,17/12/2019
+P00782,Juan,Ramírez,NA,,Asma,San Isidro,24/11/2017
+P00783,Luis,Gómez,7,F,,Miraflores,29/07/2017
+P00784,Pedro,NA,NA,NA,Hipertensión,San Isidro,27/11/2021
+P00785,José,Vargas,NA,F,Migraña,,14/05/2017
+P00786,Luis,Rojas,NA,M,,Lince,11/11/2016
+P00787,José,García,NA,NA,Gripe,Lince,27/03/2019
+P00788,Lucía,NA,,NA,Diabetes,Miraflores,21/06/2018
+P00789,María,Vargas,,NA,Diabetes,,19/06/2015
+P00790,Paola,Pérez,61,,Migraña,La Molina,17/03/2015
+P00791,Lucía,Vargas,5,NA,Hipertensión,NA,23/04/2018
+P00792,Juan,Torres,,F,Diabetes,NA,01/05/2018
+P00793,NA,Torres,79,M,Migraña,San Isidro,09/09/2015
+P00794,Xiomara,Pérez,NA,M,Diabetes,Miraflores,31/03/2017
+P00795,Juan,Gómez,,M,Covid-19,San Isidro,18/03/2024
+P00796,Pedro,Gómez,,F,,San Isidro,03/08/2021
+P00797,Pedro,NA,NA,NA,Covid-19,Lince,22/11/2022
+P00798,Paola,Pérez,,NA,Alergia,San Isidro,12/04/2015
+P00799,Juan,NA,55,M,Migraña,Callao,30/09/2022
+P00800,Lucía,Fernández,,M,Covid-19,Miraflores,27/12/2018
+P00801,Xiomara,García,,,Alergia,Cajamarca,20/02/2021
+P00802,Luis,NA,,F,Alergia,NA,09/11/2024
+P00803,NA,Fernández,,F,NA,Miraflores,17/02/2015
+P00804,Paola,Torres,87,,Asma,Callao,06/02/2022
+P00805,Xiomara,García,,NA,,Callao,13/10/2020
+P00806,Xiomara,Torres,NA,,Asma,,26/01/2017
+P00807,Juan,NA,NA,M,,San Isidro,10/09/2021
+P00808,NA,Fernández,NA,NA,,Cajamarca,29/10/2019
+P00809,NA,Rojas,46,M,Covid-19,La Molina,01/07/2018
+P00810,Paola,NA,,NA,Alergia,NA,08/02/2015
+P00811,Paola,Fernández,36,M,Alergia,Surco,25/02/2019
+P00812,María,García,,,,,19/02/2023
+P00813,María,Ramírez,NA,F,Gripe,Lince,26/02/2022
+P00814,Juan,García,,,Diabetes,San Isidro,06/01/2021
+P00815,Juan,Fernández,93,,NA,Callao,24/03/2020
+P00816,José,Rojas,,M,Migraña,La Molina,30/07/2018
+P00817,Pedro,Vargas,28,,Diabetes,Lince,20/09/2022
+P00818,NA,Fernández,81,NA,NA,La Molina,21/12/2019
+P00819,José,Vargas,82,,Covid-19,Cajamarca,21/08/2018
+P00820,Andrés,Gómez,68,M,Gripe,Surco,22/06/2017
+P00821,Andrés,Fernández,,F,Gripe,NA,07/07/2023
+P00822,María,Gómez,50,,Migraña,Lince,07/04/2020
+P00823,Paola,Pérez,,M,,Surco,28/12/2019
+P00824,María,Pérez,,,Hipertensión,NA,05/02/2023
+P00825,María,Pérez,80,F,Hipertensión,,02/03/2018
+P00826,Paola,Pérez,,,Covid-19,Callao,20/03/2019
+P00827,Lucía,Gómez,NA,M,Alergia,NA,04/07/2022
+P00828,Paola,Torres,73,,Gripe,,23/11/2020
+P00829,Pedro,Pérez,98,F,Hipertensión,NA,30/09/2024
+P00830,Ana,Vargas,NA,M,Diabetes,Lince,11/10/2015
+P00831,Pedro,Rojas,6,F,NA,Cajamarca,08/03/2024
+P00832,Lucía,NA,99,NA,,Miraflores,22/01/2015
+P00833,Ana,García,NA,NA,Migraña,Surco,25/01/2019
+P00834,Juan,Fernández,38,NA,,Surco,05/09/2021
+P00835,Xiomara,Fernández,,F,Gripe,Miraflores,10/01/2015
+P00836,Lucía,Gómez,,F,Hipertensión,Callao,26/07/2015
+P00837,Luis,Ramírez,94,NA,Diabetes,Miraflores,13/12/2022
+P00838,Luis,Ramírez,,M,Asma,NA,20/12/2016
+P00839,NA,Pérez,NA,F,Alergia,Surco,13/05/2017
+P00840,Xiomara,Fernández,34,M,Gripe,,24/12/2021
+P00841,María,Ramírez,NA,,Gripe,San Isidro,31/10/2023
+P00842,Pedro,Gómez,,NA,Migraña,NA,15/02/2017
+P00843,Lucía,García,62,F,Asma,Lince,22/10/2016
+P00844,Luis,Pérez,42,,,Surco,13/08/2021
+P00845,Xiomara,NA,NA,F,Hipertensión,Callao,04/11/2022
+P00846,Ana,Fernández,NA,NA,Gripe,NA,29/01/2018
+P00847,María,Rojas,77,F,Migraña,Miraflores,27/01/2017
+P00848,Paola,Ramírez,13,,NA,Surco,04/10/2020
+P00849,Luis,Vargas,NA,,,La Molina,29/06/2018
+P00850,Ana,Torres,NA,F,Hipertensión,Surco,11/10/2021
+P00851,Xiomara,Rojas,6,NA,Alergia,NA,27/08/2020
+P00852,Pedro,Fernández,NA,NA,NA,NA,08/10/2016
+P00853,Paola,Gómez,NA,,Alergia,Callao,21/02/2024
+P00854,Andrés,Fernández,NA,M,Gripe,Lince,25/09/2015
+P00855,Xiomara,Rojas,32,NA,,San Isidro,27/03/2023
+P00856,Ana,Fernández,NA,NA,Asma,Miraflores,30/11/2019
+P00857,María,Gómez,NA,,Covid-19,Surco,01/05/2024
+P00858,Ana,NA,23,NA,Hipertensión,,17/06/2017
+P00859,Paola,Fernández,98,M,Diabetes,San Isidro,11/01/2020
+P00860,Andrés,Vargas,NA,NA,,,24/05/2024
+P00861,Juan,Ramírez,,M,Hipertensión,Callao,01/02/2015
+P00862,Xiomara,Torres,46,F,Diabetes,Cajamarca,17/08/2018
+P00863,Lucía,Fernández,88,NA,Hipertensión,,30/04/2018
+P00864,Pedro,Pérez,NA,NA,Covid-19,Callao,14/01/2019
+P00865,Ana,Rojas,79,M,NA,Callao,08/04/2015
+P00866,María,García,NA,NA,Alergia,NA,26/05/2021
+P00867,María,Ramírez,NA,NA,Diabetes,Lince,07/11/2017
+P00868,NA,Fernández,,,Asma,Miraflores,17/05/2015
+P00869,Andrés,Vargas,47,,Gripe,Cajamarca,06/11/2018
+P00870,Andrés,Pérez,,NA,,NA,10/08/2023
+P00871,María,NA,64,NA,NA,Miraflores,12/01/2017
+P00872,José,Vargas,97,NA,Hipertensión,NA,14/10/2015
+P00873,José,Vargas,NA,F,Asma,,03/05/2020
+P00874,Lucía,Pérez,16,M,Migraña,Surco,17/02/2021
+P00875,Ana,NA,83,,Alergia,,06/05/2020
+P00876,José,Ramírez,69,,Gripe,Surco,01/10/2023
+P00877,José,Pérez,59,NA,Hipertensión,Lince,04/03/2015
+P00878,Pedro,Gómez,30,F,Covid-19,Callao,11/11/2017
+P00879,Ana,Pérez,,M,,NA,27/06/2024
+P00880,María,Torres,NA,,Hipertensión,NA,15/04/2024
+P00881,Paola,García,,M,Migraña,San Isidro,30/03/2020
+P00882,NA,NA,,,Covid-19,,07/02/2016
+P00883,Pedro,NA,NA,NA,Diabetes,Miraflores,11/05/2021
+P00884,Luis,Rojas,,,Alergia,San Isidro,03/11/2017
+P00885,NA,Pérez,,NA,Hipertensión,Miraflores,05/04/2024
+P00886,Ana,Rojas,NA,M,Gripe,Cajamarca,18/06/2023
+P00887,Paola,Gómez,,M,,Surco,02/07/2018
+P00888,Ana,Ramírez,,F,Gripe,Surco,25/11/2021
+P00889,NA,Pérez,NA,M,Covid-19,Miraflores,19/12/2022
+P00890,Ana,Ramírez,,F,Migraña,San Isidro,30/10/2023
+P00891,Lucía,Vargas,NA,,Diabetes,NA,04/03/2015
+P00892,Pedro,Pérez,NA,F,Asma,Surco,04/11/2015
+P00893,NA,Fernández,NA,F,Migraña,,08/09/2023
+P00894,Lucía,Vargas,NA,F,Diabetes,,29/10/2023
+P00895,Pedro,Fernández,88,,,Miraflores,09/10/2022
+P00896,Lucía,NA,94,,Asma,Cajamarca,11/08/2019
+P00897,Luis,Ramírez,42,NA,Covid-19,Callao,06/07/2022
+P00898,NA,Gómez,,F,Hipertensión,San Isidro,06/10/2024
+P00899,Paola,Gómez,,M,Hipertensión,,01/09/2015
+P00900,Luis,García,19,,Diabetes,Surco,28/10/2020
+P00901,María,Gómez,,M,Asma,Callao,20/05/2015
+P00902,Andrés,Pérez,93,F,Covid-19,Surco,15/03/2015
+P00903,María,García,NA,NA,Diabetes,,24/09/2017
+P00904,NA,Fernández,23,,,San Isidro,18/08/2016
+P00905,Andrés,NA,34,NA,Diabetes,NA,21/02/2022
+P00906,Paola,Gómez,NA,F,Hipertensión,La Molina,08/03/2015
+P00907,Lucía,Rojas,,M,Asma,Callao,04/11/2022
+P00908,Lucía,Gómez,55,F,Alergia,La Molina,02/06/2021
+P00909,Paola,Pérez,5,M,Covid-19,San Isidro,20/11/2019
+P00910,Xiomara,García,NA,F,Asma,Surco,15/06/2015
+P00911,Pedro,Torres,NA,F,Alergia,Miraflores,07/12/2016
+P00912,Ana,Pérez,,M,Migraña,Miraflores,11/01/2022
+P00913,Paola,Gómez,57,,Hipertensión,Callao,29/01/2015
+P00914,Luis,Torres,46,,Alergia,,02/09/2024
+P00915,Juan,NA,NA,,,Callao,21/07/2015
+P00916,Ana,García,49,M,Hipertensión,Miraflores,15/06/2015
+P00917,NA,Gómez,86,F,Asma,NA,28/06/2021
+P00918,Luis,Gómez,NA,F,Migraña,Miraflores,12/01/2017
+P00919,Pedro,Fernández,67,NA,Alergia,Lince,22/10/2018
+P00920,Lucía,Gómez,NA,M,Covid-19,Surco,27/01/2021
+P00921,José,Vargas,NA,F,Alergia,San Isidro,07/02/2020
+P00922,Andrés,García,,,Asma,Lince,18/04/2015
+P00923,Lucía,Gómez,35,,Diabetes,Surco,28/03/2020
+P00924,NA,Ramírez,,F,NA,La Molina,07/07/2017
+P00925,Juan,Torres,NA,F,Covid-19,Miraflores,24/07/2022
+P00926,Ana,Ramírez,40,,Covid-19,,12/04/2018
+P00927,José,NA,,M,Asma,Miraflores,30/11/2024
+P00928,Andrés,Pérez,NA,NA,Covid-19,Cajamarca,12/03/2015
+P00929,Juan,Rojas,,F,Covid-19,Miraflores,31/03/2017
+P00930,Juan,Pérez,,F,,Surco,22/11/2024
+P00931,NA,Ramírez,NA,,Gripe,Surco,29/09/2022
+P00932,Ana,Ramírez,73,,Alergia,,20/10/2018
+P00933,Juan,Fernández,NA,M,NA,Surco,30/04/2016
+P00934,Andrés,Ramírez,,M,Gripe,Cajamarca,04/10/2023
+P00935,Pedro,García,,F,,Cajamarca,07/06/2016
+P00936,Lucía,Rojas,34,NA,Gripe,,15/05/2022
+P00937,Lucía,Ramírez,NA,,Covid-19,NA,28/03/2019
+P00938,Pedro,Rojas,NA,,Hipertensión,La Molina,29/09/2019
+P00939,María,Ramírez,,,Diabetes,San Isidro,08/09/2024
+P00940,Lucía,Torres,33,,NA,NA,03/09/2016
+P00941,María,NA,NA,M,Gripe,La Molina,27/10/2021
+P00942,Xiomara,Vargas,38,NA,Hipertensión,Callao,27/04/2021
+P00943,Paola,Fernández,,M,NA,,18/01/2020
+P00944,Lucía,Ramírez,10,NA,Alergia,NA,16/02/2016
+P00945,José,García,,NA,,Cajamarca,07/07/2023
+P00946,María,NA,79,F,Diabetes,Miraflores,27/12/2017
+P00947,Lucía,Pérez,,F,Hipertensión,La Molina,14/11/2020
+P00948,Pedro,Ramírez,NA,M,Gripe,Surco,03/02/2020
+P00949,Paola,Gómez,83,,NA,Cajamarca,31/01/2015
+P00950,Luis,NA,76,M,Migraña,La Molina,27/05/2022
+P00951,Xiomara,Gómez,,F,Migraña,San Isidro,14/10/2019
+P00952,Andrés,Gómez,94,NA,Covid-19,La Molina,01/03/2018
+P00953,Xiomara,Gómez,83,M,NA,Callao,11/11/2018
+P00954,José,NA,,M,Hipertensión,Surco,28/06/2020
+P00955,Paola,Fernández,27,F,Asma,San Isidro,06/01/2021
+P00956,José,NA,66,M,NA,Callao,04/02/2022
+P00957,José,Rojas,,NA,Diabetes,Lince,04/12/2022
+P00958,Lucía,Rojas,59,F,NA,,28/01/2019
+P00959,Pedro,Pérez,,M,Alergia,Miraflores,27/07/2023
+P00960,Juan,Pérez,NA,F,Migraña,NA,05/11/2016
+P00961,Xiomara,NA,12,F,NA,San Isidro,28/05/2021
+P00962,Paola,Rojas,,F,Diabetes,Miraflores,04/01/2015
+P00963,Luis,Ramírez,0,M,Asma,Cajamarca,14/03/2022
+P00964,Juan,Fernández,73,,Asma,,20/02/2023
+P00965,Pedro,NA,NA,,Hipertensión,Surco,20/02/2020
+P00966,Paola,Pérez,,NA,Gripe,,13/03/2021
+P00967,NA,Pérez,95,NA,Migraña,,05/03/2017
+P00968,María,Pérez,,M,,Miraflores,22/05/2018
+P00969,NA,García,,F,Migraña,La Molina,05/08/2018
+P00970,Lucía,Rojas,NA,F,,Cajamarca,27/06/2021
+P00971,Lucía,García,55,,Alergia,Miraflores,21/07/2018
+P00972,Ana,García,39,NA,Covid-19,NA,08/11/2023
+P00973,María,Pérez,39,,Covid-19,NA,15/12/2022
+P00974,Luis,Torres,12,NA,Asma,Miraflores,03/11/2016
+P00975,Juan,Gómez,37,F,Asma,Callao,31/10/2019
+P00976,José,NA,,NA,Migraña,Miraflores,03/03/2016
+P00977,Ana,Gómez,20,,Diabetes,Cajamarca,28/08/2020
+P00978,María,Pérez,NA,F,Gripe,NA,15/04/2016
+P00979,NA,Gómez,NA,M,Alergia,La Molina,18/05/2017
+P00980,Luis,Pérez,NA,M,Gripe,Callao,17/02/2023
+P00981,Pedro,NA,NA,NA,Migraña,Lince,15/09/2023
+P00982,Paola,NA,NA,F,Covid-19,,08/01/2021
+P00983,Andrés,Fernández,,,Gripe,Surco,13/07/2017
+P00984,Pedro,Vargas,,M,Gripe,Surco,25/12/2023
+P00985,NA,García,,NA,Migraña,,25/10/2016
+P00986,Ana,Ramírez,,F,Covid-19,San Isidro,11/06/2015
+P00987,José,Vargas,,F,Asma,La Molina,23/09/2023
+P00988,María,Torres,58,,,,21/05/2018
+P00989,Xiomara,Vargas,44,,,Miraflores,28/03/2021
+P00990,María,Gómez,53,NA,,La Molina,14/08/2015
+P00991,Pedro,Rojas,NA,F,Gripe,Cajamarca,18/05/2015
+P00992,José,Torres,,M,Gripe,Surco,31/01/2015
+P00993,Paola,Vargas,64,,Hipertensión,Cajamarca,20/12/2017
+P00994,Juan,García,,F,Covid-19,Surco,02/04/2019
+P00995,Pedro,Gómez,,NA,NA,San Isidro,11/11/2019
+P00996,Ana,Gómez,,,Covid-19,San Isidro,29/08/2015
+P00997,Juan,Rojas,100,,Migraña,Callao,26/05/2020
+P00998,Lucía,Torres,,,,Miraflores,02/11/2017
+P00999,Andrés,NA,,NA,Asma,Lince,21/04/2023
+P01000,Pedro,Torres,13,F,,Lince,28/09/2018
