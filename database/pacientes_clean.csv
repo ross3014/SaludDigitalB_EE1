@@ -1,0 +1,1001 @@
+Paciente_ID,Nombre,Apellido,Edad,Sexo,Diagnostico,Distrito,Fecha_Ingreso
+P00001,Lucía,Pérez,52.5,F,Alergia,Lince,2018-03-20
+P00002,Luis,Torres,52.5,No Especificado,Hipertensión,Cajamarca,2020-05-31
+P00003,José,Fernández,25.0,No Especificado,Hipertensión,Callao,2018-02-10
+P00004,Lucía,García,52.5,No Especificado,No Especificado,No Especificado,2024-03-28
+P00005,Lucía,Pérez,52.5,F,No Especificado,La Molina,2024-01-02
+P00006,Lucía,Rojas,52.5,No Especificado,Covid-19,Cajamarca,2017-03-05
+P00007,No Especificado,Vargas,52.5,No Especificado,Hipertensión,No Especificado,2015-09-01
+P00008,Xiomara,García,52.5,No Especificado,Migraña,No Especificado,2022-11-18
+P00009,Andrés,Rojas,52.5,No Especificado,Gripe,Miraflores,2017-01-23
+P00010,Andrés,García,31.0,F,Hipertensión,San Isidro,2020-04-16
+P00011,Ana,Rojas,52.5,F,Gripe,Callao,2017-05-29
+P00012,Xiomara,Torres,52.5,M,Diabetes,Lince,2022-06-26
+P00013,Luis,Rojas,59.0,F,Covid-19,Cajamarca,2017-09-20
+P00014,Andrés,Fernández,52.5,No Especificado,Diabetes,Surco,2015-09-24
+P00015,Paola,Fernández,100.0,No Especificado,Covid-19,Lince,2018-07-06
+P00016,María,Vargas,52.5,No Especificado,Migraña,Callao,2019-07-23
+P00017,Ana,Torres,52.5,F,Migraña,Cajamarca,2024-01-02
+P00018,Luis,Torres,52.5,F,Hipertensión,Cajamarca,2018-12-19
+P00019,Luis,Rojas,64.0,M,No Especificado,San Isidro,2017-10-25
+P00020,Andrés,Fernández,52.5,M,No Especificado,San Isidro,2018-04-09
+P00021,Luis,Rojas,52.5,M,Alergia,Cajamarca,2022-12-04
+P00022,Pedro,Gómez,52.5,M,No Especificado,La Molina,2017-03-30
+P00023,Xiomara,Ramírez,52.5,M,No Especificado,Miraflores,2020-07-19
+P00024,José,Torres,100.0,No Especificado,Diabetes,Cajamarca,2019-07-07
+P00025,María,Rojas,52.5,No Especificado,Hipertensión,No Especificado,2018-03-25
+P00026,María,Rojas,52.5,No Especificado,Hipertensión,Surco,2015-10-25
+P00027,Ana,García,52.5,No Especificado,Asma,San Isidro,2024-08-09
+P00028,Luis,Ramírez,41.0,No Especificado,No Especificado,Lince,2023-04-12
+P00029,No Especificado,Gómez,52.5,No Especificado,Hipertensión,No Especificado,2017-07-31
+P00030,Ana,Pérez,52.5,No Especificado,Hipertensión,Miraflores,2022-01-30
+P00031,Lucía,No Especificado,52.5,No Especificado,Alergia,No Especificado,2019-07-02
+P00032,Luis,Rojas,52.5,M,Diabetes,Cajamarca,2022-12-13
+P00033,Ana,Rojas,28.0,M,Gripe,Lince,2022-05-29
+P00034,María,Gómez,52.5,M,Diabetes,Miraflores,2020-10-28
+P00035,José,Rojas,52.5,No Especificado,Covid-19,Surco,2015-01-28
+P00036,Paola,Vargas,52.5,F,Hipertensión,Cajamarca,2017-06-06
+P00037,Ana,Ramírez,52.5,No Especificado,No Especificado,Lince,2019-03-18
+P00038,Pedro,Gómez,52.5,No Especificado,Diabetes,Cajamarca,2017-01-23
+P00039,Lucía,No Especificado,52.5,No Especificado,Migraña,Miraflores,2018-06-27
+P00040,Ana,Torres,52.5,F,Diabetes,Miraflores,2018-04-09
+P00041,Paola,Rojas,98.0,F,Hipertensión,Miraflores,2016-04-03
+P00042,María,Fernández,52.5,No Especificado,Gripe,No Especificado,2024-07-04
+P00043,Xiomara,Torres,52.5,No Especificado,Alergia,Callao,2023-12-23
+P00044,Luis,No Especificado,52.5,M,Asma,Miraflores,2018-12-23
+P00045,Luis,García,52.5,F,Migraña,Cajamarca,2024-07-19
+P00046,José,Gómez,95.0,No Especificado,No Especificado,No Especificado,2017-04-23
+P00047,No Especificado,No Especificado,52.5,F,Diabetes,Miraflores,2019-12-13
+P00048,Juan,No Especificado,52.5,No Especificado,No Especificado,La Molina,2021-01-27
+P00049,Lucía,Vargas,52.5,F,Hipertensión,Surco,2021-08-03
+P00050,Ana,No Especificado,52.5,F,Covid-19,Miraflores,2019-08-03
+P00051,Lucía,Rojas,52.5,No Especificado,Covid-19,Miraflores,2017-03-03
+P00052,Pedro,García,52.5,No Especificado,No Especificado,No Especificado,2020-09-14
+P00053,Paola,Pérez,52.5,No Especificado,Gripe,Surco,2018-01-08
+P00054,Lucía,Torres,52.5,No Especificado,Diabetes,No Especificado,2016-01-01
+P00055,No Especificado,Torres,52.5,F,No Especificado,Miraflores,2019-03-29
+P00056,Luis,Pérez,52.5,No Especificado,Migraña,No Especificado,2015-06-06
+P00057,Luis,Ramírez,78.0,No Especificado,Asma,Callao,2019-05-26
+P00058,Juan,García,52.5,No Especificado,No Especificado,San Isidro,2019-04-05
+P00059,Pedro,Vargas,67.0,No Especificado,Hipertensión,Surco,2018-03-01
+P00060,No Especificado,Fernández,52.5,F,No Especificado,Callao,2022-02-21
+P00061,Pedro,Torres,52.5,F,Alergia,Surco,2016-09-16
+P00062,No Especificado,No Especificado,23.0,F,Diabetes,Lince,2021-09-27
+P00063,María,García,36.0,No Especificado,Alergia,Miraflores,2016-05-23
+P00064,José,Ramírez,52.5,M,Asma,No Especificado,2017-11-12
+P00065,No Especificado,Rojas,31.0,No Especificado,Migraña,No Especificado,2023-12-15
+P00066,María,Rojas,12.0,F,No Especificado,Miraflores,2017-08-10
+P00067,Xiomara,Torres,12.0,No Especificado,No Especificado,No Especificado,2020-04-29
+P00068,Xiomara,Fernández,48.0,M,Alergia,Callao,2017-04-15
+P00069,Xiomara,Vargas,99.0,M,No Especificado,Cajamarca,2021-02-16
+P00070,Xiomara,Ramírez,57.0,F,Hipertensión,Cajamarca,2016-08-25
+P00071,Paola,Fernández,52.5,No Especificado,Migraña,Surco,2018-06-25
+P00072,Ana,Fernández,52.5,No Especificado,Asma,Cajamarca,2024-08-22
+P00073,Xiomara,Vargas,52.5,M,Gripe,La Molina,2019-05-04
+P00074,Andrés,Ramírez,52.5,F,Migraña,San Isidro,2015-07-25
+P00075,Paola,Ramírez,54.0,No Especificado,Diabetes,No Especificado,2022-11-17
+P00076,Xiomara,Torres,52.5,M,Migraña,San Isidro,2015-07-31
+P00077,Luis,Ramírez,17.0,No Especificado,Diabetes,Lince,2018-11-29
+P00078,Ana,Pérez,26.0,No Especificado,Alergia,Surco,2016-04-23
+P00079,Xiomara,Vargas,77.0,M,Gripe,San Isidro,2023-09-16
+P00080,Andrés,No Especificado,75.0,F,Migraña,Surco,2019-03-27
+P00081,Juan,Fernández,52.5,No Especificado,Hipertensión,Cajamarca,2015-07-15
+P00082,Andrés,Pérez,3.0,M,No Especificado,La Molina,2021-11-05
+P00083,José,Pérez,52.5,F,Asma,La Molina,2024-04-16
+P00084,Paola,Fernández,76.0,M,Migraña,No Especificado,2015-02-06
+P00085,María,Vargas,52.5,No Especificado,No Especificado,Cajamarca,2022-07-06
+P00086,Paola,Gómez,29.0,F,Gripe,Surco,2017-06-16
+P00087,Juan,García,52.5,No Especificado,No Especificado,No Especificado,2015-05-13
+P00088,Juan,Rojas,52.5,F,Asma,San Isidro,2024-11-15
+P00089,Ana,Rojas,52.5,No Especificado,Covid-19,Miraflores,2020-02-23
+P00090,Luis,No Especificado,79.0,No Especificado,Covid-19,San Isidro,2020-08-21
+P00091,Paola,Rojas,52.5,No Especificado,No Especificado,Cajamarca,2015-09-25
+P00092,Andrés,García,73.0,No Especificado,Covid-19,Surco,2015-01-12
+P00093,Luis,No Especificado,52.5,M,Hipertensión,San Isidro,2020-08-17
+P00094,Pedro,Gómez,52.5,M,Gripe,Miraflores,2023-11-02
+P00095,Lucía,Vargas,87.0,F,Diabetes,La Molina,2024-04-17
+P00096,Juan,Vargas,52.5,F,Alergia,Callao,2017-03-17
+P00097,Ana,Fernández,52.5,M,No Especificado,Miraflores,2024-01-17
+P00098,Lucía,Pérez,52.5,F,Asma,Miraflores,2016-04-16
+P00099,Ana,Torres,4.0,No Especificado,No Especificado,Cajamarca,2017-08-27
+P00100,Luis,Gómez,52.5,No Especificado,Migraña,No Especificado,2023-06-08
+P00101,Luis,Ramírez,52.5,No Especificado,Diabetes,Lince,2024-07-23
+P00102,Ana,Pérez,52.5,No Especificado,No Especificado,No Especificado,2023-06-20
+P00103,Luis,Pérez,52.5,No Especificado,Covid-19,No Especificado,2015-10-05
+P00104,María,Ramírez,52.5,No Especificado,Migraña,Lince,2016-06-10
+P00105,Andrés,Gómez,52.5,No Especificado,Diabetes,La Molina,2017-10-05
+P00106,José,Rojas,52.5,No Especificado,Asma,No Especificado,2024-08-07
+P00107,Ana,Ramírez,52.5,F,Gripe,No Especificado,2015-04-28
+P00108,Paola,García,71.0,F,No Especificado,Miraflores,2020-08-31
+P00109,Xiomara,Torres,52.5,M,Migraña,No Especificado,2021-03-25
+P00110,Ana,No Especificado,52.5,F,Diabetes,Cajamarca,2018-07-04
+P00111,Lucía,Ramírez,52.5,No Especificado,No Especificado,No Especificado,2021-04-25
+P00112,Lucía,García,52.5,No Especificado,Asma,No Especificado,2024-01-31
+P00113,Pedro,Torres,52.5,No Especificado,Asma,Miraflores,2015-04-05
+P00114,Ana,Pérez,18.0,F,No Especificado,Cajamarca,2019-04-17
+P00115,José,Ramírez,50.0,F,Asma,Surco,2022-01-13
+P00116,Lucía,Pérez,52.5,M,Migraña,San Isidro,2019-12-14
+P00117,Pedro,Rojas,71.0,F,Migraña,Callao,2021-01-14
+P00118,Lucía,Gómez,58.0,F,Diabetes,No Especificado,2018-07-28
+P00119,María,Rojas,52.5,No Especificado,Diabetes,Lince,2015-07-14
+P00120,Xiomara,Ramírez,63.0,No Especificado,Diabetes,San Isidro,2021-07-12
+P00121,Xiomara,Ramírez,59.0,No Especificado,Asma,Miraflores,2021-11-24
+P00122,Lucía,Ramírez,52.5,F,Hipertensión,La Molina,2017-10-09
+P00123,Lucía,Fernández,7.0,F,Covid-19,No Especificado,2019-03-21
+P00124,Pedro,Vargas,8.0,No Especificado,Gripe,Callao,2016-11-02
+P00125,María,No Especificado,52.5,No Especificado,No Especificado,No Especificado,2016-03-11
+P00126,Andrés,Ramírez,35.0,F,Alergia,San Isidro,2019-06-20
+P00127,Xiomara,Gómez,52.5,F,Migraña,Cajamarca,2024-01-07
+P00128,Ana,Ramírez,89.0,F,Alergia,Surco,2023-11-22
+P00129,Paola,Vargas,52.5,No Especificado,No Especificado,San Isidro,2024-05-25
+P00130,Pedro,Ramírez,81.0,No Especificado,Migraña,Callao,2015-11-18
+P00131,Lucía,Ramírez,66.0,M,Covid-19,Miraflores,2019-07-09
+P00132,No Especificado,Pérez,52.5,No Especificado,Migraña,Callao,2020-08-23
+P00133,María,Rojas,10.0,F,Hipertensión,Miraflores,2023-03-06
+P00134,No Especificado,Pérez,52.5,No Especificado,Alergia,No Especificado,2021-05-01
+P00135,Lucía,Fernández,38.0,M,Migraña,No Especificado,2016-07-15
+P00136,Ana,Gómez,52.5,F,Asma,No Especificado,2016-05-14
+P00137,José,Rojas,52.5,No Especificado,Alergia,Miraflores,2015-09-26
+P00138,No Especificado,Vargas,55.0,M,Migraña,San Isidro,2024-08-26
+P00139,María,No Especificado,52.5,F,Asma,San Isidro,2015-12-07
+P00140,Xiomara,Ramírez,52.5,F,Covid-19,No Especificado,2016-03-30
+P00141,Paola,Gómez,52.5,No Especificado,Alergia,No Especificado,2022-07-06
+P00142,Pedro,Torres,52.5,F,No Especificado,Surco,2020-07-12
+P00143,Xiomara,Rojas,52.5,M,Gripe,Callao,2016-02-08
+P00144,Lucía,Fernández,52.5,No Especificado,Gripe,San Isidro,2017-03-10
+P00145,Ana,Gómez,52.5,No Especificado,Gripe,No Especificado,2023-01-22
+P00146,Andrés,Pérez,52.5,M,Gripe,La Molina,2016-08-23
+P00147,Pedro,No Especificado,52.5,No Especificado,Hipertensión,San Isidro,2021-08-18
+P00148,José,Gómez,52.5,No Especificado,Diabetes,San Isidro,2017-08-18
+P00149,Xiomara,Ramírez,40.0,No Especificado,Diabetes,Miraflores,2021-04-17
+P00150,Pedro,Fernández,52.5,No Especificado,Hipertensión,No Especificado,2017-10-29
+P00151,Paola,Vargas,52.5,No Especificado,Asma,San Isidro,2024-03-10
+P00152,Xiomara,No Especificado,52.5,M,Diabetes,Lince,2017-06-24
+P00153,Juan,Gómez,52.5,M,Asma,Surco,2022-10-23
+P00154,No Especificado,Torres,52.5,M,Gripe,San Isidro,2021-01-30
+P00155,Paola,Vargas,50.0,No Especificado,Asma,Miraflores,2017-12-29
+P00156,José,Gómez,52.5,No Especificado,No Especificado,Lince,2018-05-20
+P00157,María,Fernández,52.5,F,No Especificado,No Especificado,2018-05-25
+P00158,No Especificado,García,52.5,F,No Especificado,No Especificado,2020-07-03
+P00159,José,Rojas,52.5,F,Migraña,Miraflores,2022-12-14
+P00160,Juan,No Especificado,52.5,No Especificado,Alergia,No Especificado,2015-11-14
+P00161,Luis,No Especificado,15.0,No Especificado,Hipertensión,Lince,2015-08-17
+P00162,Luis,Gómez,52.5,F,Alergia,Cajamarca,2022-06-21
+P00163,Luis,Torres,52.5,No Especificado,Diabetes,Miraflores,2021-07-06
+P00164,Andrés,Pérez,52.5,No Especificado,Migraña,No Especificado,2019-10-05
+P00165,Juan,No Especificado,52.5,F,Alergia,San Isidro,2024-07-29
+P00166,Ana,Ramírez,52.5,No Especificado,Asma,La Molina,2016-07-16
+P00167,Juan,Rojas,2.0,No Especificado,Hipertensión,Miraflores,2021-06-24
+P00168,Lucía,Gómez,23.0,No Especificado,No Especificado,La Molina,2020-08-12
+P00169,Luis,No Especificado,52.5,No Especificado,No Especificado,No Especificado,2024-05-13
+P00170,Xiomara,Gómez,0.0,F,Alergia,Surco,2024-12-26
+P00171,No Especificado,Torres,52.5,M,Covid-19,San Isidro,2020-10-16
+P00172,José,Torres,52.5,No Especificado,Alergia,Miraflores,2018-04-26
+P00173,No Especificado,Fernández,52.5,No Especificado,Migraña,La Molina,2021-10-06
+P00174,Andrés,No Especificado,52.5,No Especificado,Hipertensión,San Isidro,2020-05-16
+P00175,María,No Especificado,52.5,M,No Especificado,La Molina,2017-02-20
+P00176,María,Rojas,52.5,No Especificado,Hipertensión,Callao,2021-03-30
+P00177,Luis,Gómez,52.5,No Especificado,Covid-19,No Especificado,2019-02-26
+P00178,Luis,Ramírez,52.5,No Especificado,Asma,Cajamarca,2020-05-28
+P00179,Ana,Fernández,52.5,No Especificado,No Especificado,No Especificado,2015-12-15
+P00180,María,Rojas,52.5,M,No Especificado,No Especificado,2017-02-01
+P00181,José,Pérez,52.5,F,Asma,Surco,2022-05-22
+P00182,Pedro,Torres,52.5,No Especificado,Hipertensión,No Especificado,2024-05-05
+P00183,Luis,Rojas,66.0,No Especificado,No Especificado,Miraflores,2016-09-06
+P00184,No Especificado,Vargas,52.5,No Especificado,Alergia,Callao,2015-03-12
+P00185,Paola,Gómez,52.5,M,Gripe,Lince,2017-10-22
+P00186,José,Vargas,52.5,M,No Especificado,Cajamarca,2019-04-08
+P00187,Juan,No Especificado,52.5,M,No Especificado,No Especificado,2023-10-20
+P00188,Luis,Torres,52.5,F,Hipertensión,Lince,2019-10-05
+P00189,María,Vargas,54.0,F,Hipertensión,Surco,2019-12-09
+P00190,No Especificado,Gómez,52.5,M,No Especificado,No Especificado,2023-11-27
+P00191,Pedro,Vargas,52.5,No Especificado,Hipertensión,Cajamarca,2023-01-26
+P00192,José,Pérez,52.5,No Especificado,Diabetes,Surco,2019-10-03
+P00193,Andrés,Vargas,62.0,M,Diabetes,Callao,2022-08-31
+P00194,Luis,Pérez,52.5,No Especificado,No Especificado,No Especificado,2021-11-09
+P00195,Ana,García,58.0,F,Covid-19,Cajamarca,2020-11-07
+P00196,Lucía,Fernández,52.5,No Especificado,Asma,Cajamarca,2020-06-24
+P00197,Paola,Ramírez,52.5,F,Migraña,Miraflores,2022-03-18
+P00198,Juan,Fernández,52.5,No Especificado,Covid-19,Cajamarca,2022-11-11
+P00199,José,Vargas,52.5,F,Asma,No Especificado,2020-04-21
+P00200,José,No Especificado,52.5,F,Migraña,No Especificado,2022-05-14
+P00201,Andrés,Gómez,36.0,No Especificado,Diabetes,No Especificado,2018-05-14
+P00202,José,Pérez,52.5,M,Hipertensión,Callao,2022-07-27
+P00203,Xiomara,No Especificado,20.0,No Especificado,Alergia,Miraflores,2020-02-03
+P00204,María,No Especificado,86.0,No Especificado,Asma,Miraflores,2015-09-19
+P00205,Paola,Torres,65.0,M,Alergia,La Molina,2024-06-16
+P00206,Paola,Gómez,52.5,M,Gripe,La Molina,2017-03-21
+P00207,Pedro,Torres,52.5,No Especificado,Alergia,San Isidro,2017-05-22
+P00208,No Especificado,No Especificado,26.0,F,No Especificado,Miraflores,2015-08-16
+P00209,Paola,Fernández,52.5,No Especificado,Gripe,Surco,2017-06-30
+P00210,María,Pérez,52.5,F,Hipertensión,Cajamarca,2023-04-19
+P00211,Luis,García,35.0,No Especificado,Migraña,Callao,2023-01-03
+P00212,Andrés,Ramírez,52.5,No Especificado,Hipertensión,No Especificado,2021-02-11
+P00213,Xiomara,Pérez,52.5,No Especificado,No Especificado,San Isidro,2021-02-06
+P00214,Paola,Torres,58.0,F,Asma,No Especificado,2015-04-23
+P00215,Juan,Ramírez,52.5,No Especificado,Hipertensión,Miraflores,2016-05-29
+P00216,No Especificado,García,52.5,M,Migraña,Cajamarca,2020-06-20
+P00217,No Especificado,Fernández,52.5,M,No Especificado,La Molina,2021-02-07
+P00218,José,García,42.0,M,Asma,La Molina,2023-06-21
+P00219,Andrés,Rojas,52.5,No Especificado,Asma,No Especificado,2015-02-14
+P00220,Ana,Rojas,52.5,No Especificado,Migraña,La Molina,2024-12-06
+P00221,María,Fernández,52.5,No Especificado,Migraña,No Especificado,2015-09-28
+P00222,No Especificado,Rojas,52.5,M,Asma,No Especificado,2019-08-27
+P00223,Pedro,Fernández,52.5,M,Hipertensión,Lince,2015-01-15
+P00224,Xiomara,Pérez,80.0,No Especificado,Diabetes,Lince,2019-10-02
+P00225,José,Gómez,52.5,M,Asma,Miraflores,2016-07-09
+P00226,Juan,Torres,52.5,No Especificado,Hipertensión,Callao,2015-01-31
+P00227,Lucía,García,52.5,F,Gripe,Miraflores,2020-07-24
+P00228,Luis,Rojas,52.5,M,No Especificado,Cajamarca,2015-07-26
+P00229,José,Ramírez,52.5,No Especificado,Diabetes,La Molina,2020-05-08
+P00230,Paola,Gómez,52.5,M,No Especificado,Callao,2020-10-23
+P00231,Xiomara,Ramírez,52.5,No Especificado,Migraña,No Especificado,2024-01-21
+P00232,María,No Especificado,52.5,M,Hipertensión,Callao,2020-01-25
+P00233,Andrés,Gómez,52.5,F,Alergia,Surco,2015-09-16
+P00234,Ana,Gómez,52.5,No Especificado,Asma,Lince,2017-08-25
+P00235,Paola,Pérez,52.5,M,Migraña,Surco,2020-08-05
+P00236,Andrés,Vargas,91.0,M,No Especificado,La Molina,2022-09-23
+P00237,José,Pérez,52.5,No Especificado,Gripe,No Especificado,2024-01-16
+P00238,No Especificado,Ramírez,52.5,F,Diabetes,Surco,2023-02-05
+P00239,Luis,No Especificado,52.5,No Especificado,No Especificado,Surco,2017-09-30
+P00240,José,Ramírez,52.5,M,Gripe,Lince,2021-10-20
+P00241,Xiomara,Pérez,52.5,No Especificado,Hipertensión,La Molina,2023-03-29
+P00242,Andrés,No Especificado,30.0,F,No Especificado,Cajamarca,2021-04-30
+P00243,Andrés,Ramírez,52.5,F,Gripe,La Molina,2019-03-08
+P00244,Ana,Ramírez,75.0,M,No Especificado,San Isidro,2020-12-27
+P00245,Lucía,García,52.5,No Especificado,Asma,Callao,2020-09-05
+P00246,Ana,Vargas,52.5,No Especificado,Asma,Callao,2021-08-09
+P00247,Juan,García,52.5,No Especificado,No Especificado,Surco,2021-07-09
+P00248,María,Fernández,52.5,M,No Especificado,No Especificado,2023-12-02
+P00249,Andrés,Torres,71.0,F,Migraña,Lince,2015-05-09
+P00250,Ana,Vargas,52.5,No Especificado,Diabetes,Lince,2022-04-15
+P00251,Xiomara,García,52.5,M,Diabetes,No Especificado,2017-10-01
+P00252,Paola,Ramírez,52.5,F,No Especificado,Lince,2018-05-11
+P00253,Pedro,Torres,52.5,No Especificado,Migraña,San Isidro,2024-08-14
+P00254,Luis,Torres,52.5,No Especificado,Covid-19,La Molina,2016-08-14
+P00255,Lucía,Torres,93.0,No Especificado,Covid-19,San Isidro,2016-01-09
+P00256,Andrés,Gómez,98.0,M,Gripe,San Isidro,2023-03-30
+P00257,Juan,Vargas,88.0,F,Alergia,La Molina,2022-08-27
+P00258,Juan,Gómez,52.5,No Especificado,Gripe,No Especificado,2024-12-21
+P00259,Xiomara,Rojas,52.5,M,Hipertensión,San Isidro,2024-02-14
+P00260,María,Gómez,52.5,M,No Especificado,Lince,2018-10-18
+P00261,María,Ramírez,16.0,No Especificado,Covid-19,Callao,2024-12-10
+P00262,Juan,Vargas,52.5,F,Asma,Miraflores,2016-05-19
+P00263,Paola,Vargas,52.5,M,Covid-19,Miraflores,2017-07-07
+P00264,No Especificado,Rojas,52.5,No Especificado,Covid-19,Callao,2019-03-28
+P00265,Lucía,García,52.5,F,Asma,Callao,2022-10-23
+P00266,Xiomara,Rojas,5.0,F,Hipertensión,San Isidro,2017-01-05
+P00267,Pedro,Gómez,49.0,No Especificado,Covid-19,No Especificado,2020-02-21
+P00268,No Especificado,Fernández,2.0,No Especificado,Alergia,Surco,2022-03-14
+P00269,No Especificado,Rojas,52.5,F,Gripe,Surco,2021-01-25
+P00270,Pedro,Rojas,52.5,M,Covid-19,No Especificado,2017-10-15
+P00271,María,Gómez,52.5,No Especificado,Asma,No Especificado,2015-10-05
+P00272,Paola,Vargas,57.0,M,Asma,Miraflores,2015-04-20
+P00273,No Especificado,Rojas,52.5,M,Gripe,La Molina,2016-03-16
+P00274,José,Ramírez,52.5,F,Alergia,Miraflores,2017-02-19
+P00275,Juan,García,52.5,F,Hipertensión,Cajamarca,2023-01-11
+P00276,No Especificado,Vargas,52.5,F,Covid-19,Cajamarca,2017-03-01
+P00277,José,Ramírez,52.5,F,Covid-19,San Isidro,2017-07-16
+P00278,Lucía,Rojas,21.0,No Especificado,Alergia,Miraflores,2024-10-03
+P00279,Xiomara,Vargas,52.5,M,Asma,No Especificado,2017-02-02
+P00280,Ana,Vargas,52.5,F,Asma,San Isidro,2019-04-18
+P00281,Ana,Fernández,52.5,M,Migraña,San Isidro,2015-10-16
+P00282,Juan,Ramírez,88.0,M,Alergia,Surco,2019-03-08
+P00283,Pedro,Rojas,52.5,No Especificado,Alergia,Cajamarca,2015-07-11
+P00284,No Especificado,Ramírez,52.5,F,Asma,Miraflores,2015-01-18
+P00285,Luis,Ramírez,52.5,F,Hipertensión,San Isidro,2024-12-17
+P00286,Luis,Rojas,52.5,F,No Especificado,Cajamarca,2021-02-05
+P00287,Andrés,Vargas,28.0,M,Gripe,Cajamarca,2015-02-27
+P00288,Lucía,Pérez,52.5,M,Asma,Callao,2017-04-26
+P00289,José,Torres,52.5,No Especificado,No Especificado,Surco,2017-07-08
+P00290,María,Fernández,59.0,M,No Especificado,Surco,2016-12-22
+P00291,José,Vargas,91.0,No Especificado,Migraña,Callao,2022-11-15
+P00292,Pedro,Ramírez,52.5,M,Hipertensión,Miraflores,2015-11-22
+P00293,Pedro,García,52.5,M,Gripe,San Isidro,2019-10-06
+P00294,José,Ramírez,74.0,F,Asma,No Especificado,2016-10-19
+P00295,Luis,Fernández,61.0,F,Hipertensión,Lince,2022-11-02
+P00296,María,Rojas,52.5,No Especificado,No Especificado,No Especificado,2024-05-20
+P00297,Paola,No Especificado,52.5,F,No Especificado,San Isidro,2015-03-03
+P00298,Luis,Ramírez,52.5,M,Migraña,Callao,2023-01-18
+P00299,Ana,Fernández,52.5,No Especificado,Asma,Callao,2021-08-19
+P00300,Luis,Vargas,52.5,M,Alergia,Callao,2021-01-05
+P00301,Xiomara,García,45.0,No Especificado,No Especificado,San Isidro,2019-03-03
+P00302,Pedro,No Especificado,52.5,No Especificado,Asma,Cajamarca,2020-08-07
+P00303,Luis,Ramírez,52.5,No Especificado,Covid-19,Callao,2021-01-10
+P00304,Ana,No Especificado,52.5,M,Diabetes,Cajamarca,2023-03-26
+P00305,Pedro,Ramírez,52.5,F,Hipertensión,Miraflores,2021-03-23
+P00306,Luis,Ramírez,46.0,F,Diabetes,Cajamarca,2022-09-25
+P00307,No Especificado,Torres,52.5,F,Hipertensión,La Molina,2019-01-06
+P00308,Ana,Vargas,52.5,No Especificado,Hipertensión,No Especificado,2022-09-24
+P00309,Lucía,García,52.5,M,No Especificado,Cajamarca,2018-08-24
+P00310,Xiomara,Vargas,54.0,No Especificado,No Especificado,No Especificado,2017-07-15
+P00311,Juan,Pérez,52.5,M,Hipertensión,No Especificado,2023-10-24
+P00312,No Especificado,Fernández,52.5,No Especificado,Covid-19,Callao,2024-08-24
+P00313,José,Pérez,98.0,M,Covid-19,San Isidro,2022-01-02
+P00314,Paola,Vargas,52.5,F,Diabetes,Lince,2021-05-09
+P00315,Luis,García,80.0,No Especificado,Covid-19,Lince,2018-08-17
+P00316,No Especificado,Torres,52.5,No Especificado,No Especificado,Callao,2022-01-16
+P00317,Pedro,Fernández,52.5,No Especificado,Diabetes,La Molina,2016-08-16
+P00318,María,No Especificado,85.0,No Especificado,Asma,La Molina,2016-11-02
+P00319,No Especificado,No Especificado,52.5,No Especificado,No Especificado,No Especificado,2019-07-17
+P00320,Pedro,Vargas,54.0,No Especificado,Diabetes,La Molina,2022-03-06
+P00321,José,García,100.0,No Especificado,Migraña,Miraflores,2016-06-02
+P00322,José,Fernández,3.0,F,Gripe,Miraflores,2020-01-26
+P00323,Pedro,Torres,52.5,No Especificado,Migraña,San Isidro,2015-06-09
+P00324,Andrés,Fernández,52.5,F,Alergia,Miraflores,2015-12-11
+P00325,Lucía,Rojas,52.0,M,Covid-19,La Molina,2017-03-05
+P00326,Juan,No Especificado,52.5,No Especificado,Migraña,San Isidro,2015-09-16
+P00327,Luis,Torres,52.5,No Especificado,Migraña,Lince,2023-03-31
+P00328,María,Vargas,27.0,No Especificado,Hipertensión,Callao,2024-05-01
+P00329,Ana,Pérez,99.0,M,No Especificado,Callao,2018-04-07
+P00330,Luis,Pérez,52.5,No Especificado,Asma,Callao,2019-04-19
+P00331,José,Fernández,52.5,No Especificado,Migraña,Cajamarca,2023-12-13
+P00332,María,García,52.5,No Especificado,Alergia,San Isidro,2018-05-22
+P00333,Luis,Rojas,52.5,No Especificado,No Especificado,Miraflores,2015-01-18
+P00334,Xiomara,Rojas,6.0,No Especificado,Diabetes,Lince,2019-02-17
+P00335,Luis,García,40.0,F,Diabetes,No Especificado,2015-03-17
+P00336,José,Torres,40.0,No Especificado,Migraña,Cajamarca,2017-05-25
+P00337,Ana,Vargas,52.5,No Especificado,Diabetes,Callao,2024-06-08
+P00338,Andrés,No Especificado,52.5,F,Migraña,San Isidro,2021-04-22
+P00339,Luis,No Especificado,52.5,F,Gripe,No Especificado,2015-04-26
+P00340,Xiomara,Torres,15.0,M,Alergia,Miraflores,2019-08-27
+P00341,Ana,Torres,52.5,No Especificado,Covid-19,Callao,2017-02-11
+P00342,Pedro,Pérez,86.0,M,Diabetes,Cajamarca,2022-01-24
+P00343,Paola,No Especificado,52.5,M,No Especificado,Cajamarca,2021-11-02
+P00344,José,García,52.5,M,No Especificado,Lince,2018-11-25
+P00345,No Especificado,Gómez,52.5,M,Asma,Miraflores,2017-01-12
+P00346,Paola,Vargas,65.0,No Especificado,Migraña,No Especificado,2022-03-30
+P00347,Lucía,Rojas,52.5,No Especificado,Hipertensión,Callao,2019-08-11
+P00348,Lucía,No Especificado,42.0,No Especificado,Covid-19,No Especificado,2016-11-22
+P00349,María,Pérez,52.5,No Especificado,Diabetes,Surco,2020-08-20
+P00350,Andrés,Gómez,52.5,No Especificado,Alergia,Callao,2016-12-11
+P00351,Pedro,Rojas,24.0,F,Migraña,Miraflores,2023-03-02
+P00352,No Especificado,No Especificado,23.0,No Especificado,Diabetes,San Isidro,2020-06-23
+P00353,María,Gómez,52.5,No Especificado,No Especificado,Callao,2024-06-15
+P00354,Lucía,García,52.5,F,Asma,Lince,2022-06-23
+P00355,Xiomara,Torres,52.5,No Especificado,Alergia,Cajamarca,2016-03-29
+P00356,José,No Especificado,33.0,M,Hipertensión,La Molina,2022-12-05
+P00357,Lucía,Torres,87.0,No Especificado,Gripe,Surco,2016-12-20
+P00358,Ana,Rojas,52.5,F,Alergia,La Molina,2015-05-29
+P00359,José,Gómez,52.5,F,Gripe,Cajamarca,2015-03-29
+P00360,Ana,Ramírez,50.0,F,Gripe,No Especificado,2015-11-26
+P00361,María,Pérez,52.5,M,Hipertensión,No Especificado,2020-07-23
+P00362,Pedro,Torres,31.0,M,Migraña,Lince,2016-01-16
+P00363,Juan,Pérez,52.5,No Especificado,Alergia,La Molina,2023-10-31
+P00364,Pedro,Torres,74.0,No Especificado,Gripe,Lince,2023-01-09
+P00365,Ana,García,52.5,No Especificado,Alergia,La Molina,2019-03-08
+P00366,Paola,No Especificado,80.0,M,Hipertensión,La Molina,2015-06-22
+P00367,José,Pérez,23.0,M,Migraña,Surco,2015-04-04
+P00368,Paola,García,52.0,No Especificado,No Especificado,No Especificado,2022-06-19
+P00369,No Especificado,Vargas,44.0,F,Hipertensión,Surco,2021-03-18
+P00370,Pedro,Rojas,52.5,F,No Especificado,No Especificado,2024-11-18
+P00371,José,Vargas,52.5,M,No Especificado,San Isidro,2018-10-12
+P00372,Xiomara,Gómez,69.0,M,Migraña,San Isidro,2018-11-29
+P00373,Ana,Torres,52.5,No Especificado,Gripe,Surco,2015-12-16
+P00374,Andrés,Vargas,79.0,M,Diabetes,Miraflores,2015-12-11
+P00375,Andrés,Pérez,52.5,M,Alergia,Surco,2016-12-09
+P00376,Luis,No Especificado,10.0,No Especificado,Diabetes,Callao,2015-09-10
+P00377,José,Gómez,52.5,F,Migraña,Surco,2023-05-26
+P00378,María,Rojas,52.5,No Especificado,Hipertensión,San Isidro,2015-08-22
+P00379,Lucía,No Especificado,52.5,No Especificado,Alergia,La Molina,2023-05-21
+P00380,Pedro,García,52.5,F,Gripe,Surco,2016-04-11
+P00381,No Especificado,García,52.5,No Especificado,Gripe,Surco,2022-01-15
+P00382,Ana,Rojas,52.5,No Especificado,Asma,No Especificado,2024-03-12
+P00383,Ana,Rojas,52.5,No Especificado,No Especificado,Surco,2015-02-19
+P00384,María,Rojas,52.5,M,Gripe,Cajamarca,2020-10-26
+P00385,María,Ramírez,52.5,No Especificado,Gripe,La Molina,2021-03-15
+P00386,Xiomara,Ramírez,52.5,M,Asma,Cajamarca,2023-07-03
+P00387,Paola,Ramírez,52.5,No Especificado,Migraña,Lince,2017-04-08
+P00388,Luis,Ramírez,52.5,No Especificado,Migraña,No Especificado,2021-07-02
+P00389,Ana,No Especificado,52.5,No Especificado,Hipertensión,Cajamarca,2021-06-07
+P00390,María,Vargas,60.0,No Especificado,Gripe,Callao,2024-10-02
+P00391,No Especificado,Vargas,88.0,F,Diabetes,Cajamarca,2019-08-24
+P00392,Ana,Rojas,52.5,No Especificado,Migraña,Surco,2019-05-20
+P00393,Andrés,García,52.5,No Especificado,No Especificado,San Isidro,2017-12-26
+P00394,Andrés,Ramírez,85.0,No Especificado,Hipertensión,Miraflores,2015-10-20
+P00395,Ana,Ramírez,52.5,No Especificado,Migraña,No Especificado,2022-11-03
+P00396,Juan,Vargas,31.0,M,Diabetes,La Molina,2020-01-22
+P00397,Ana,Rojas,56.0,No Especificado,No Especificado,No Especificado,2018-11-28
+P00398,Andrés,Ramírez,52.5,No Especificado,Migraña,La Molina,2017-06-06
+P00399,No Especificado,Fernández,52.5,No Especificado,Alergia,Lince,2015-07-23
+P00400,María,Vargas,52.5,F,Diabetes,Cajamarca,2021-03-19
+P00401,Andrés,García,52.5,F,Covid-19,Miraflores,2020-06-24
+P00402,Juan,García,20.0,M,No Especificado,Callao,2016-06-28
+P00403,Andrés,Torres,52.5,F,Hipertensión,Callao,2018-09-28
+P00404,Paola,Vargas,52.5,No Especificado,Asma,Miraflores,2015-01-23
+P00405,Paola,Pérez,3.0,F,No Especificado,La Molina,2021-06-09
+P00406,Juan,Pérez,61.0,No Especificado,No Especificado,Callao,2021-04-18
+P00407,Andrés,No Especificado,43.0,F,No Especificado,Surco,2024-11-01
+P00408,Xiomara,García,52.5,M,No Especificado,Cajamarca,2017-11-16
+P00409,Lucía,Ramírez,52.5,F,Alergia,San Isidro,2019-05-27
+P00410,María,No Especificado,17.0,F,Covid-19,La Molina,2016-04-03
+P00411,Paola,No Especificado,52.5,No Especificado,No Especificado,La Molina,2017-09-28
+P00412,José,Pérez,24.0,F,Hipertensión,San Isidro,2024-11-07
+P00413,María,No Especificado,89.0,M,No Especificado,Lince,2020-03-17
+P00414,Andrés,García,96.0,F,Gripe,Lince,2021-12-28
+P00415,Juan,Vargas,26.0,No Especificado,Asma,Lince,2018-03-02
+P00416,Luis,Rojas,24.0,M,Diabetes,No Especificado,2017-01-11
+P00417,Ana,Pérez,75.0,M,Diabetes,San Isidro,2023-08-28
+P00418,Paola,Fernández,74.0,No Especificado,Migraña,Cajamarca,2015-02-04
+P00419,María,No Especificado,52.5,No Especificado,No Especificado,La Molina,2017-07-10
+P00420,Luis,García,52.5,No Especificado,Diabetes,La Molina,2021-06-24
+P00421,Lucía,Ramírez,52.5,No Especificado,Gripe,No Especificado,2021-06-12
+P00422,Pedro,Gómez,52.5,No Especificado,No Especificado,Surco,2023-10-10
+P00423,Paola,Gómez,52.5,M,Diabetes,No Especificado,2016-09-18
+P00424,Andrés,Fernández,52.5,F,Migraña,No Especificado,2016-06-27
+P00425,No Especificado,Fernández,52.5,F,Alergia,No Especificado,2020-05-08
+P00426,Ana,Fernández,52.5,M,Diabetes,Callao,2015-04-18
+P00427,Pedro,Gómez,52.5,F,Alergia,Surco,2024-12-12
+P00428,Xiomara,Vargas,52.5,M,No Especificado,No Especificado,2017-08-13
+P00429,Paola,Fernández,0.0,No Especificado,Migraña,La Molina,2017-06-12
+P00430,Pedro,Vargas,52.5,No Especificado,Migraña,Lince,2022-06-15
+P00431,Luis,Pérez,77.0,No Especificado,No Especificado,Miraflores,2023-02-22
+P00432,José,Torres,52.5,F,Alergia,San Isidro,2021-11-14
+P00433,No Especificado,Torres,52.5,M,Migraña,Miraflores,2022-04-08
+P00434,No Especificado,Rojas,52.5,No Especificado,Diabetes,La Molina,2020-06-26
+P00435,Luis,García,52.5,M,Covid-19,Miraflores,2018-04-21
+P00436,Ana,García,52.5,M,Gripe,No Especificado,2021-09-18
+P00437,José,Torres,52.5,M,Hipertensión,Miraflores,2019-06-14
+P00438,No Especificado,No Especificado,52.5,No Especificado,Hipertensión,Callao,2021-02-28
+P00439,Ana,Ramírez,74.0,M,Asma,Lince,2020-04-27
+P00440,Paola,Gómez,84.0,No Especificado,Gripe,San Isidro,2016-08-12
+P00441,Pedro,García,52.5,F,Asma,San Isidro,2022-10-29
+P00442,Pedro,Fernández,52.5,M,Covid-19,No Especificado,2023-02-18
+P00443,José,García,52.5,F,Migraña,No Especificado,2021-10-10
+P00444,Lucía,Pérez,52.5,No Especificado,Diabetes,Miraflores,2015-06-08
+P00445,Pedro,Ramírez,73.0,M,No Especificado,Callao,2023-08-02
+P00446,Luis,Rojas,52.5,No Especificado,No Especificado,Callao,2020-01-08
+P00447,No Especificado,Torres,65.0,No Especificado,Hipertensión,La Molina,2019-09-19
+P00448,Juan,García,5.0,No Especificado,No Especificado,Lince,2018-01-13
+P00449,Pedro,Rojas,52.5,No Especificado,Alergia,Callao,2018-10-21
+P00450,Juan,Ramírez,50.0,F,Hipertensión,Surco,2019-07-31
+P00451,José,Ramírez,52.5,M,No Especificado,Callao,2018-10-11
+P00452,Luis,No Especificado,52.5,No Especificado,Gripe,No Especificado,2020-01-31
+P00453,Luis,No Especificado,52.5,No Especificado,Migraña,San Isidro,2021-07-07
+P00454,Xiomara,Ramírez,95.0,F,Gripe,Surco,2022-03-29
+P00455,Xiomara,No Especificado,52.5,No Especificado,Gripe,No Especificado,2017-03-19
+P00456,No Especificado,Ramírez,27.0,No Especificado,No Especificado,Callao,2016-12-25
+P00457,No Especificado,Pérez,52.5,M,Migraña,Miraflores,2018-05-16
+P00458,José,Ramírez,52.5,F,No Especificado,San Isidro,2022-10-24
+P00459,José,Gómez,52.5,No Especificado,Migraña,Cajamarca,2018-08-22
+P00460,Lucía,Gómez,37.0,No Especificado,No Especificado,La Molina,2015-10-23
+P00461,José,Ramírez,52.5,M,Hipertensión,Cajamarca,2018-03-10
+P00462,No Especificado,No Especificado,52.5,No Especificado,Asma,Callao,2016-08-25
+P00463,No Especificado,Ramírez,52.5,No Especificado,No Especificado,Surco,2018-10-02
+P00464,Juan,Fernández,52.5,M,No Especificado,Cajamarca,2016-02-17
+P00465,Andrés,García,7.0,No Especificado,Diabetes,No Especificado,2017-09-05
+P00466,Luis,García,24.0,M,Gripe,Miraflores,2022-09-17
+P00467,Pedro,Pérez,52.5,M,No Especificado,Surco,2024-03-21
+P00468,María,García,52.5,No Especificado,Gripe,Lince,2016-02-08
+P00469,No Especificado,Pérez,19.0,F,Migraña,Cajamarca,2019-04-10
+P00470,Lucía,Fernández,52.5,F,Migraña,La Molina,2021-02-11
+P00471,Andrés,Torres,52.5,F,No Especificado,No Especificado,2015-02-17
+P00472,Lucía,Vargas,52.5,F,Diabetes,Surco,2019-07-22
+P00473,María,Fernández,68.0,F,Migraña,San Isidro,2018-07-10
+P00474,Ana,Vargas,52.5,F,Migraña,No Especificado,2015-08-09
+P00475,Paola,Fernández,52.5,M,Hipertensión,San Isidro,2020-10-22
+P00476,Pedro,Fernández,52.5,M,Diabetes,Cajamarca,2016-09-14
+P00477,Paola,García,1.0,No Especificado,Hipertensión,La Molina,2016-11-06
+P00478,No Especificado,Pérez,52.5,F,Covid-19,Callao,2017-05-05
+P00479,José,Pérez,52.5,No Especificado,Gripe,San Isidro,2021-09-20
+P00480,María,García,52.5,M,Asma,Cajamarca,2024-08-20
+P00481,Pedro,Pérez,10.0,No Especificado,Gripe,Miraflores,2024-03-30
+P00482,José,Gómez,52.5,F,Covid-19,Miraflores,2017-09-25
+P00483,José,Gómez,52.5,M,Diabetes,Callao,2016-07-15
+P00484,Pedro,Gómez,52.5,No Especificado,Gripe,No Especificado,2020-08-15
+P00485,Ana,Vargas,52.5,F,Diabetes,No Especificado,2024-06-05
+P00486,Paola,No Especificado,52.5,M,Alergia,San Isidro,2019-03-30
+P00487,Juan,Gómez,52.5,M,Diabetes,San Isidro,2019-07-02
+P00488,José,Fernández,48.0,M,No Especificado,Miraflores,2016-01-22
+P00489,Paola,Ramírez,52.5,M,No Especificado,Lince,2020-06-05
+P00490,María,No Especificado,52.5,No Especificado,Alergia,Surco,2016-06-08
+P00491,Ana,Pérez,99.0,M,Asma,San Isidro,2015-05-22
+P00492,Ana,Rojas,77.0,No Especificado,Diabetes,Miraflores,2019-06-27
+P00493,Juan,García,52.5,F,Diabetes,Miraflores,2018-03-26
+P00494,María,García,52.5,No Especificado,Gripe,Callao,2024-05-24
+P00495,Paola,Gómez,52.5,No Especificado,No Especificado,Miraflores,2022-02-23
+P00496,Andrés,García,52.5,F,Covid-19,Callao,2016-08-11
+P00497,Xiomara,Vargas,52.5,No Especificado,Covid-19,Surco,2020-11-11
+P00498,Xiomara,Rojas,52.5,No Especificado,No Especificado,No Especificado,2017-11-01
+P00499,Pedro,No Especificado,52.5,No Especificado,Gripe,Lince,2018-02-06
+P00500,Pedro,No Especificado,52.5,M,Diabetes,Lince,2017-03-21
+P00501,Lucía,García,52.5,No Especificado,Asma,No Especificado,2023-12-05
+P00502,José,Gómez,52.5,No Especificado,No Especificado,San Isidro,2020-03-10
+P00503,Xiomara,Ramírez,73.0,M,Migraña,Callao,2021-06-13
+P00504,No Especificado,Torres,52.5,M,Alergia,No Especificado,2019-08-11
+P00505,Juan,Gómez,52.5,M,Diabetes,Surco,2023-07-15
+P00506,Pedro,Fernández,71.0,F,Gripe,Callao,2020-08-26
+P00507,Andrés,Pérez,52.5,No Especificado,No Especificado,San Isidro,2018-11-08
+P00508,María,Rojas,73.0,No Especificado,No Especificado,San Isidro,2021-10-04
+P00509,No Especificado,Rojas,52.5,F,No Especificado,Miraflores,2015-12-30
+P00510,Juan,No Especificado,52.5,M,Migraña,La Molina,2023-07-28
+P00511,No Especificado,No Especificado,52.5,F,No Especificado,Surco,2023-12-27
+P00512,María,Pérez,52.5,F,Alergia,Lince,2021-05-11
+P00513,Ana,Vargas,52.5,M,Asma,La Molina,2016-11-18
+P00514,Ana,Gómez,52.5,F,Gripe,No Especificado,2021-03-05
+P00515,Lucía,Vargas,52.5,No Especificado,Alergia,Callao,2019-06-05
+P00516,Xiomara,Rojas,38.0,F,Diabetes,Lince,2019-01-06
+P00517,Paola,Torres,52.5,No Especificado,Diabetes,La Molina,2022-05-24
+P00518,Paola,García,41.0,M,No Especificado,La Molina,2020-08-02
+P00519,Lucía,Ramírez,4.0,M,No Especificado,Miraflores,2020-10-29
+P00520,María,Torres,28.0,No Especificado,Migraña,Lince,2019-04-13
+P00521,Paola,Gómez,78.0,No Especificado,Hipertensión,San Isidro,2020-09-14
+P00522,Paola,Torres,39.0,M,No Especificado,No Especificado,2015-07-18
+P00523,Luis,García,14.0,M,No Especificado,No Especificado,2016-11-06
+P00524,José,Rojas,52.5,No Especificado,Diabetes,No Especificado,2016-02-06
+P00525,No Especificado,Rojas,52.5,M,Asma,Miraflores,2020-02-06
+P00526,María,Rojas,52.5,No Especificado,Alergia,Surco,2017-04-08
+P00527,María,Pérez,28.0,No Especificado,Gripe,Surco,2021-06-28
+P00528,Juan,Torres,52.5,F,No Especificado,Callao,2024-02-06
+P00529,María,Fernández,52.5,No Especificado,Alergia,No Especificado,2016-07-05
+P00530,Paola,Gómez,52.5,No Especificado,Asma,Callao,2019-12-09
+P00531,Paola,Vargas,77.0,No Especificado,Migraña,Miraflores,2022-08-16
+P00532,Pedro,Gómez,52.5,No Especificado,Asma,Cajamarca,2024-12-26
+P00533,Pedro,Ramírez,52.5,No Especificado,Covid-19,Cajamarca,2019-12-12
+P00534,Andrés,Fernández,78.0,No Especificado,Asma,Miraflores,2022-09-02
+P00535,Andrés,Ramírez,52.5,No Especificado,Alergia,No Especificado,2015-01-11
+P00536,No Especificado,Vargas,52.5,No Especificado,Gripe,Surco,2023-11-08
+P00537,José,No Especificado,52.5,M,Hipertensión,No Especificado,2017-09-29
+P00538,Ana,Ramírez,52.5,No Especificado,Gripe,Surco,2019-09-18
+P00539,Lucía,Ramírez,52.5,No Especificado,No Especificado,No Especificado,2021-07-14
+P00540,Andrés,No Especificado,12.0,No Especificado,Covid-19,San Isidro,2019-05-12
+P00541,José,Torres,52.5,M,Asma,Miraflores,2024-06-05
+P00542,Andrés,No Especificado,52.5,No Especificado,Asma,Miraflores,2019-07-25
+P00543,No Especificado,Ramírez,10.0,No Especificado,Alergia,San Isidro,2019-12-26
+P00544,No Especificado,Ramírez,52.5,M,Hipertensión,Surco,2023-06-03
+P00545,María,Rojas,52.5,M,No Especificado,Lince,2022-11-08
+P00546,Paola,Ramírez,52.5,M,Asma,No Especificado,2017-02-15
+P00547,María,Vargas,52.5,No Especificado,Alergia,No Especificado,2020-11-29
+P00548,Lucía,No Especificado,52.5,F,No Especificado,Cajamarca,2022-01-23
+P00549,Luis,Fernández,52.5,M,Alergia,La Molina,2020-09-24
+P00550,Juan,Rojas,52.5,No Especificado,Covid-19,La Molina,2017-08-30
+P00551,Juan,Fernández,40.0,No Especificado,Covid-19,San Isidro,2017-09-23
+P00552,Paola,Fernández,52.5,F,Diabetes,No Especificado,2015-06-27
+P00553,José,Gómez,52.5,No Especificado,Diabetes,No Especificado,2017-06-18
+P00554,José,García,100.0,M,Gripe,Lince,2022-11-04
+P00555,Xiomara,Torres,83.0,F,No Especificado,La Molina,2021-04-03
+P00556,Xiomara,Vargas,100.0,M,Gripe,Cajamarca,2022-12-27
+P00557,Paola,Rojas,89.0,No Especificado,No Especificado,Cajamarca,2018-08-16
+P00558,Xiomara,García,52.5,F,Gripe,Callao,2016-10-27
+P00559,Pedro,Ramírez,52.5,No Especificado,Hipertensión,No Especificado,2019-08-27
+P00560,No Especificado,Rojas,52.5,F,Covid-19,La Molina,2022-10-03
+P00561,María,Torres,52.5,M,No Especificado,Cajamarca,2021-05-18
+P00562,Juan,Pérez,52.5,F,Hipertensión,Cajamarca,2015-01-01
+P00563,No Especificado,García,50.0,F,Diabetes,No Especificado,2018-04-20
+P00564,María,No Especificado,52.5,No Especificado,Covid-19,Lince,2022-01-06
+P00565,No Especificado,Ramírez,52.5,F,Hipertensión,Callao,2018-05-31
+P00566,Luis,García,52.5,M,Diabetes,San Isidro,2018-01-29
+P00567,Lucía,Torres,52.5,F,Gripe,Surco,2017-07-18
+P00568,Xiomara,Pérez,52.5,M,No Especificado,Lince,2024-12-01
+P00569,Lucía,Fernández,83.0,No Especificado,Asma,No Especificado,2024-04-25
+P00570,Pedro,Torres,78.0,No Especificado,Alergia,Surco,2022-01-09
+P00571,Luis,García,52.5,F,Asma,No Especificado,2021-08-11
+P00572,Andrés,Fernández,96.0,No Especificado,Gripe,Surco,2024-01-22
+P00573,Paola,Vargas,52.5,M,No Especificado,Callao,2016-03-30
+P00574,Paola,Vargas,52.5,M,Gripe,San Isidro,2017-01-19
+P00575,Paola,Ramírez,18.0,F,Hipertensión,San Isidro,2022-04-12
+P00576,Pedro,Pérez,52.5,No Especificado,Diabetes,Cajamarca,2015-03-01
+P00577,Pedro,Gómez,52.5,M,Gripe,San Isidro,2023-10-02
+P00578,Paola,Ramírez,52.5,No Especificado,Gripe,San Isidro,2015-07-09
+P00579,Pedro,Rojas,19.0,No Especificado,No Especificado,No Especificado,2019-12-20
+P00580,Juan,Gómez,52.5,No Especificado,Hipertensión,La Molina,2018-03-28
+P00581,No Especificado,Pérez,52.5,No Especificado,Alergia,San Isidro,2021-03-12
+P00582,María,García,79.0,M,No Especificado,Callao,2020-02-14
+P00583,Andrés,No Especificado,52.5,No Especificado,Gripe,No Especificado,2016-11-30
+P00584,Juan,Vargas,18.0,M,No Especificado,Lince,2023-03-13
+P00585,José,Rojas,13.0,F,Asma,Lince,2016-08-06
+P00586,José,No Especificado,95.0,No Especificado,Hipertensión,Miraflores,2016-03-29
+P00587,Paola,Vargas,39.0,No Especificado,Diabetes,Cajamarca,2016-12-07
+P00588,Xiomara,Fernández,52.5,No Especificado,Migraña,No Especificado,2016-08-23
+P00589,No Especificado,Vargas,52.5,No Especificado,Gripe,Lince,2024-11-03
+P00590,Andrés,Rojas,68.0,F,Hipertensión,No Especificado,2022-01-18
+P00591,Xiomara,Torres,52.5,No Especificado,Asma,Callao,2018-10-26
+P00592,Lucía,Rojas,52.5,F,No Especificado,No Especificado,2018-06-19
+P00593,No Especificado,Vargas,52.5,M,No Especificado,Surco,2020-12-10
+P00594,Juan,Pérez,59.0,No Especificado,Gripe,Miraflores,2022-01-14
+P00595,José,Fernández,52.5,No Especificado,Alergia,No Especificado,2018-11-27
+P00596,José,No Especificado,52.5,No Especificado,Gripe,Callao,2019-01-17
+P00597,Andrés,Gómez,52.5,M,Asma,San Isidro,2019-08-09
+P00598,Ana,Rojas,52.5,No Especificado,Diabetes,San Isidro,2016-09-04
+P00599,Xiomara,Ramírez,52.5,No Especificado,No Especificado,Callao,2016-12-15
+P00600,Lucía,Fernández,52.5,No Especificado,Migraña,La Molina,2018-02-14
+P00601,Lucía,Vargas,52.5,No Especificado,Hipertensión,San Isidro,2024-07-05
+P00602,María,Vargas,52.5,F,Alergia,Cajamarca,2020-08-25
+P00603,Ana,García,52.5,F,Alergia,No Especificado,2017-08-17
+P00604,Andrés,Rojas,90.0,No Especificado,Diabetes,No Especificado,2020-10-19
+P00605,Andrés,Rojas,52.5,No Especificado,Asma,Lince,2023-06-04
+P00606,María,Vargas,19.0,F,No Especificado,Callao,2019-04-15
+P00607,Paola,Vargas,52.5,No Especificado,Asma,San Isidro,2015-08-10
+P00608,Pedro,Fernández,52.5,No Especificado,No Especificado,Surco,2017-07-05
+P00609,Paola,Rojas,45.0,No Especificado,Covid-19,Callao,2024-06-11
+P00610,No Especificado,Fernández,52.5,F,Gripe,No Especificado,2015-11-12
+P00611,No Especificado,No Especificado,52.5,No Especificado,Asma,San Isidro,2022-12-27
+P00612,No Especificado,Torres,49.0,No Especificado,Covid-19,Callao,2023-03-19
+P00613,Lucía,No Especificado,52.5,No Especificado,No Especificado,Miraflores,2015-10-18
+P00614,José,García,56.0,No Especificado,Gripe,San Isidro,2018-06-12
+P00615,Lucía,Pérez,80.0,No Especificado,Gripe,San Isidro,2023-02-05
+P00616,No Especificado,Rojas,15.0,M,Asma,Callao,2022-01-14
+P00617,José,Rojas,52.5,No Especificado,Alergia,La Molina,2017-07-03
+P00618,José,García,11.0,No Especificado,Alergia,No Especificado,2015-02-12
+P00619,José,García,52.5,M,Asma,No Especificado,2015-01-08
+P00620,José,Pérez,15.0,F,Gripe,Surco,2022-03-29
+P00621,No Especificado,Torres,89.0,No Especificado,Alergia,Surco,2015-11-05
+P00622,María,Rojas,52.5,No Especificado,Migraña,No Especificado,2023-09-08
+P00623,Pedro,Ramírez,52.5,No Especificado,Alergia,No Especificado,2018-04-16
+P00624,Juan,Gómez,89.0,No Especificado,Diabetes,No Especificado,2022-06-29
+P00625,No Especificado,Ramírez,84.0,No Especificado,Hipertensión,No Especificado,2021-11-26
+P00626,Xiomara,Pérez,52.5,No Especificado,Asma,Cajamarca,2023-08-04
+P00627,Luis,Vargas,49.0,No Especificado,Diabetes,No Especificado,2022-02-14
+P00628,Juan,Pérez,58.0,M,Hipertensión,Miraflores,2017-02-18
+P00629,Andrés,Vargas,52.5,No Especificado,Alergia,No Especificado,2015-09-12
+P00630,Juan,No Especificado,66.0,M,Asma,Cajamarca,2022-12-12
+P00631,Lucía,García,52.5,M,Hipertensión,San Isidro,2017-09-10
+P00632,Juan,García,52.5,No Especificado,Hipertensión,Miraflores,2020-06-03
+P00633,María,Rojas,52.5,F,Hipertensión,La Molina,2015-12-19
+P00634,Paola,Gómez,52.5,M,Migraña,No Especificado,2022-01-14
+P00635,Andrés,Fernández,52.5,No Especificado,Covid-19,No Especificado,2019-07-18
+P00636,No Especificado,Rojas,52.5,No Especificado,Alergia,No Especificado,2022-07-13
+P00637,No Especificado,Vargas,52.5,F,Diabetes,Miraflores,2020-07-07
+P00638,María,Rojas,48.0,No Especificado,Migraña,Lince,2020-04-27
+P00639,No Especificado,Vargas,52.5,M,Alergia,Lince,2017-04-17
+P00640,No Especificado,Ramírez,52.5,F,Migraña,Cajamarca,2015-09-14
+P00641,Xiomara,Pérez,52.5,F,Diabetes,Callao,2018-04-18
+P00642,No Especificado,Vargas,3.0,M,Diabetes,San Isidro,2015-04-09
+P00643,María,Gómez,52.5,F,Gripe,No Especificado,2023-10-13
+P00644,Ana,Rojas,52.5,F,Diabetes,Lince,2022-07-20
+P00645,Paola,Torres,52.5,F,Alergia,Lince,2024-10-18
+P00646,Pedro,Ramírez,79.0,F,Covid-19,Miraflores,2018-06-04
+P00647,José,Rojas,10.0,No Especificado,Migraña,La Molina,2020-12-01
+P00648,Paola,García,52.5,M,Alergia,La Molina,2019-03-22
+P00649,No Especificado,Vargas,52.5,No Especificado,Migraña,San Isidro,2018-02-13
+P00650,Lucía,Vargas,52.5,F,Asma,No Especificado,2021-10-12
+P00651,Juan,No Especificado,49.0,No Especificado,Hipertensión,No Especificado,2021-02-21
+P00652,Luis,García,52.5,F,Covid-19,La Molina,2017-09-13
+P00653,Lucía,Pérez,91.0,M,No Especificado,San Isidro,2018-09-06
+P00654,Pedro,García,52.5,No Especificado,Hipertensión,No Especificado,2023-10-24
+P00655,Juan,Pérez,73.0,F,No Especificado,Lince,2024-08-17
+P00656,No Especificado,Rojas,52.5,F,Hipertensión,Miraflores,2015-03-13
+P00657,Lucía,Vargas,62.0,No Especificado,Covid-19,Cajamarca,2022-04-21
+P00658,Pedro,Gómez,52.5,M,No Especificado,San Isidro,2019-08-26
+P00659,Juan,Torres,39.0,M,Alergia,Callao,2016-06-08
+P00660,Lucía,Fernández,48.0,No Especificado,No Especificado,No Especificado,2021-10-27
+P00661,José,Fernández,52.5,No Especificado,No Especificado,No Especificado,2015-03-04
+P00662,Juan,García,36.0,No Especificado,Diabetes,La Molina,2018-12-22
+P00663,No Especificado,Ramírez,52.0,M,Migraña,No Especificado,2022-04-29
+P00664,Xiomara,García,52.5,M,No Especificado,Callao,2018-11-29
+P00665,Pedro,Gómez,52.5,No Especificado,Hipertensión,Lince,2016-06-29
+P00666,María,Torres,52.5,M,Alergia,La Molina,2021-11-20
+P00667,Paola,No Especificado,52.5,F,Gripe,Cajamarca,2019-05-07
+P00668,Xiomara,No Especificado,52.5,No Especificado,Gripe,Cajamarca,2023-01-05
+P00669,Luis,Vargas,9.0,No Especificado,Asma,Surco,2015-06-06
+P00670,Lucía,Fernández,15.0,No Especificado,Covid-19,Cajamarca,2020-04-21
+P00671,Ana,No Especificado,45.0,No Especificado,Diabetes,La Molina,2020-03-14
+P00672,Xiomara,Torres,82.0,No Especificado,Alergia,Cajamarca,2019-12-01
+P00673,José,Torres,52.5,F,Gripe,Cajamarca,2018-09-21
+P00674,Xiomara,Torres,52.5,F,Gripe,Cajamarca,2016-06-06
+P00675,No Especificado,Vargas,52.5,No Especificado,Diabetes,Surco,2024-10-16
+P00676,Paola,Gómez,52.5,F,Covid-19,Miraflores,2022-05-21
+P00677,Juan,Rojas,37.0,F,Gripe,Miraflores,2016-04-27
+P00678,Ana,No Especificado,52.5,No Especificado,Migraña,La Molina,2019-06-06
+P00679,María,Gómez,52.5,No Especificado,Gripe,Cajamarca,2016-05-21
+P00680,Ana,Pérez,52.5,No Especificado,No Especificado,No Especificado,2015-12-24
+P00681,Andrés,Torres,84.0,No Especificado,Diabetes,Callao,2015-06-15
+P00682,José,Pérez,52.5,F,Covid-19,Cajamarca,2020-02-08
+P00683,Xiomara,Vargas,52.5,No Especificado,Hipertensión,No Especificado,2024-08-05
+P00684,Juan,Torres,52.5,M,Hipertensión,Lince,2022-06-16
+P00685,José,Rojas,53.0,M,Gripe,No Especificado,2024-01-16
+P00686,Luis,No Especificado,52.5,F,No Especificado,No Especificado,2019-04-29
+P00687,Luis,No Especificado,43.0,M,No Especificado,Callao,2015-04-27
+P00688,Andrés,Ramírez,66.0,M,No Especificado,Lince,2021-08-07
+P00689,Xiomara,Fernández,52.5,No Especificado,Covid-19,No Especificado,2023-07-18
+P00690,Ana,No Especificado,52.5,F,Gripe,No Especificado,2024-10-07
+P00691,Ana,García,52.5,F,No Especificado,Cajamarca,2016-07-23
+P00692,Luis,Ramírez,52.5,M,Migraña,Miraflores,2024-04-26
+P00693,No Especificado,Torres,52.5,F,No Especificado,San Isidro,2018-05-11
+P00694,No Especificado,Torres,52.5,F,Hipertensión,San Isidro,2023-11-25
+P00695,No Especificado,Fernández,52.5,No Especificado,No Especificado,La Molina,2016-08-09
+P00696,Ana,Pérez,52.5,M,Alergia,San Isidro,2019-04-07
+P00697,No Especificado,Vargas,52.5,No Especificado,Gripe,San Isidro,2017-10-14
+P00698,No Especificado,Vargas,52.5,No Especificado,No Especificado,Cajamarca,2023-04-24
+P00699,Ana,Rojas,52.5,F,Covid-19,Lince,2018-05-04
+P00700,Juan,García,52.5,F,Alergia,Miraflores,2016-10-08
+P00701,Andrés,Fernández,52.5,No Especificado,Asma,Miraflores,2018-10-21
+P00702,Xiomara,Rojas,52.5,M,Covid-19,Surco,2023-07-10
+P00703,Juan,Vargas,52.5,M,Hipertensión,Lince,2017-04-21
+P00704,José,Fernández,93.0,No Especificado,No Especificado,Callao,2016-04-06
+P00705,Xiomara,No Especificado,79.0,No Especificado,Diabetes,Miraflores,2023-12-25
+P00706,Luis,Rojas,52.5,F,Covid-19,No Especificado,2017-02-05
+P00707,No Especificado,No Especificado,52.5,F,Covid-19,No Especificado,2021-07-28
+P00708,Pedro,Torres,52.5,No Especificado,Covid-19,San Isidro,2024-03-17
+P00709,Andrés,Pérez,52.5,No Especificado,Gripe,La Molina,2017-12-07
+P00710,Juan,Fernández,52.5,No Especificado,Diabetes,Lince,2023-01-03
+P00711,Luis,Torres,15.0,M,Covid-19,Cajamarca,2022-06-23
+P00712,Pedro,Vargas,52.5,F,Migraña,La Molina,2017-03-23
+P00713,Paola,Torres,52.5,No Especificado,Migraña,Lince,2016-04-10
+P00714,No Especificado,García,52.5,M,Hipertensión,No Especificado,2019-01-13
+P00715,Juan,Torres,52.5,No Especificado,Gripe,San Isidro,2019-03-30
+P00716,Lucía,Fernández,52.5,M,Alergia,San Isidro,2021-06-15
+P00717,Xiomara,Fernández,52.5,M,Hipertensión,Callao,2021-10-18
+P00718,Pedro,Ramírez,52.5,F,No Especificado,Lince,2016-04-05
+P00719,José,Pérez,52.5,No Especificado,Diabetes,No Especificado,2020-11-04
+P00720,Juan,No Especificado,52.5,No Especificado,Alergia,Surco,2019-09-18
+P00721,Andrés,Vargas,52.5,No Especificado,Asma,Surco,2017-11-14
+P00722,José,García,52.5,No Especificado,No Especificado,No Especificado,2016-11-13
+P00723,María,Gómez,52.5,No Especificado,Migraña,Callao,2020-12-09
+P00724,José,Pérez,59.0,F,No Especificado,Miraflores,2024-11-06
+P00725,María,García,52.5,F,Alergia,Surco,2023-04-20
+P00726,Xiomara,Fernández,52.5,No Especificado,Gripe,Callao,2016-07-27
+P00727,No Especificado,Ramírez,52.5,F,Covid-19,Cajamarca,2022-12-30
+P00728,Xiomara,No Especificado,98.0,M,Alergia,Callao,2016-07-08
+P00729,María,Pérez,11.0,M,Gripe,San Isidro,2024-01-28
+P00730,Luis,No Especificado,52.5,No Especificado,Asma,Callao,2024-07-30
+P00731,Paola,Pérez,27.0,No Especificado,Diabetes,Miraflores,2020-12-27
+P00732,Luis,Vargas,77.0,No Especificado,No Especificado,Miraflores,2015-07-26
+P00733,Ana,Torres,92.0,No Especificado,No Especificado,Cajamarca,2020-09-23
+P00734,Luis,Gómez,36.0,No Especificado,Covid-19,Miraflores,2019-12-12
+P00735,Pedro,Ramírez,52.5,No Especificado,No Especificado,Lince,2015-06-26
+P00736,Xiomara,Rojas,52.5,M,Diabetes,Surco,2018-06-09
+P00737,Paola,Pérez,52.5,No Especificado,No Especificado,Lince,2016-07-01
+P00738,Ana,García,52.5,F,Diabetes,Callao,2019-08-12
+P00739,María,García,52.5,M,Gripe,Cajamarca,2016-03-22
+P00740,Paola,Gómez,52.5,F,Alergia,No Especificado,2021-01-04
+P00741,Pedro,No Especificado,52.5,M,No Especificado,Callao,2021-10-06
+P00742,Ana,Gómez,52.5,M,Hipertensión,Miraflores,2024-06-11
+P00743,Juan,Ramírez,52.5,M,Hipertensión,Miraflores,2024-03-19
+P00744,Lucía,Ramírez,52.5,M,Migraña,No Especificado,2023-06-18
+P00745,Andrés,Rojas,73.0,No Especificado,Gripe,Miraflores,2023-12-15
+P00746,José,Torres,52.5,No Especificado,Alergia,No Especificado,2017-01-28
+P00747,Pedro,Gómez,52.5,F,Diabetes,Cajamarca,2016-08-10
+P00748,Xiomara,Gómez,12.0,M,Alergia,Callao,2023-01-28
+P00749,José,García,52.5,No Especificado,Migraña,La Molina,2015-02-19
+P00750,Juan,García,52.5,M,Hipertensión,San Isidro,2016-11-18
+P00751,José,Gómez,52.5,No Especificado,Hipertensión,Lince,2021-09-15
+P00752,Lucía,García,52.5,No Especificado,No Especificado,No Especificado,2023-05-12
+P00753,Ana,Fernández,52.5,F,Asma,No Especificado,2021-08-06
+P00754,Lucía,Fernández,52.5,No Especificado,No Especificado,Lince,2015-12-29
+P00755,José,Ramírez,52.5,No Especificado,Asma,No Especificado,2024-10-11
+P00756,María,Fernández,52.5,No Especificado,Hipertensión,Cajamarca,2018-01-22
+P00757,Juan,Rojas,52.5,M,No Especificado,Surco,2018-02-19
+P00758,Lucía,Torres,52.5,F,Asma,Callao,2022-01-31
+P00759,Juan,Torres,52.5,No Especificado,Asma,No Especificado,2021-11-11
+P00760,Xiomara,Fernández,52.5,M,No Especificado,La Molina,2024-03-02
+P00761,Andrés,Rojas,70.0,No Especificado,Diabetes,La Molina,2023-09-22
+P00762,Andrés,Pérez,52.5,M,No Especificado,Lince,2015-06-01
+P00763,Pedro,Torres,52.5,No Especificado,Asma,Callao,2019-08-14
+P00764,Andrés,No Especificado,52.5,M,Gripe,No Especificado,2021-04-24
+P00765,José,Rojas,3.0,No Especificado,Alergia,Miraflores,2022-07-22
+P00766,No Especificado,Gómez,52.5,M,Migraña,San Isidro,2024-09-30
+P00767,Paola,Gómez,22.0,No Especificado,Migraña,Lince,2022-07-17
+P00768,No Especificado,Torres,52.5,M,Hipertensión,No Especificado,2018-09-14
+P00769,No Especificado,Fernández,48.0,No Especificado,Alergia,No Especificado,2016-02-20
+P00770,Xiomara,Gómez,57.0,No Especificado,Diabetes,Callao,2023-12-22
+P00771,Juan,Ramírez,52.5,No Especificado,Migraña,Miraflores,2024-05-12
+P00772,No Especificado,No Especificado,52.5,No Especificado,Asma,San Isidro,2021-11-20
+P00773,José,Vargas,52.5,M,No Especificado,No Especificado,2019-06-21
+P00774,Andrés,Pérez,52.5,M,Gripe,Cajamarca,2024-08-15
+P00775,Pedro,Pérez,39.0,M,Migraña,La Molina,2019-10-05
+P00776,María,Pérez,52.5,M,Alergia,No Especificado,2021-12-01
+P00777,Xiomara,No Especificado,52.5,No Especificado,Alergia,San Isidro,2019-11-03
+P00778,Luis,Rojas,89.0,M,Asma,Lince,2022-09-01
+P00779,Paola,García,52.5,F,Asma,No Especificado,2020-03-06
+P00780,Luis,Vargas,40.0,No Especificado,Covid-19,Callao,2015-11-25
+P00781,Xiomara,Vargas,47.0,No Especificado,Asma,Cajamarca,2019-12-17
+P00782,Juan,Ramírez,52.5,No Especificado,Asma,San Isidro,2017-11-24
+P00783,Luis,Gómez,7.0,F,No Especificado,Miraflores,2017-07-29
+P00784,Pedro,No Especificado,52.5,No Especificado,Hipertensión,San Isidro,2021-11-27
+P00785,José,Vargas,52.5,F,Migraña,No Especificado,2017-05-14
+P00786,Luis,Rojas,52.5,M,No Especificado,Lince,2016-11-11
+P00787,José,García,52.5,No Especificado,Gripe,Lince,2019-03-27
+P00788,Lucía,No Especificado,52.5,No Especificado,Diabetes,Miraflores,2018-06-21
+P00789,María,Vargas,52.5,No Especificado,Diabetes,No Especificado,2015-06-19
+P00790,Paola,Pérez,61.0,No Especificado,Migraña,La Molina,2015-03-17
+P00791,Lucía,Vargas,5.0,No Especificado,Hipertensión,No Especificado,2018-04-23
+P00792,Juan,Torres,52.5,F,Diabetes,No Especificado,2018-05-01
+P00793,No Especificado,Torres,79.0,M,Migraña,San Isidro,2015-09-09
+P00794,Xiomara,Pérez,52.5,M,Diabetes,Miraflores,2017-03-31
+P00795,Juan,Gómez,52.5,M,Covid-19,San Isidro,2024-03-18
+P00796,Pedro,Gómez,52.5,F,No Especificado,San Isidro,2021-08-03
+P00797,Pedro,No Especificado,52.5,No Especificado,Covid-19,Lince,2022-11-22
+P00798,Paola,Pérez,52.5,No Especificado,Alergia,San Isidro,2015-04-12
+P00799,Juan,No Especificado,55.0,M,Migraña,Callao,2022-09-30
+P00800,Lucía,Fernández,52.5,M,Covid-19,Miraflores,2018-12-27
+P00801,Xiomara,García,52.5,No Especificado,Alergia,Cajamarca,2021-02-20
+P00802,Luis,No Especificado,52.5,F,Alergia,No Especificado,2024-11-09
+P00803,No Especificado,Fernández,52.5,F,No Especificado,Miraflores,2015-02-17
+P00804,Paola,Torres,87.0,No Especificado,Asma,Callao,2022-02-06
+P00805,Xiomara,García,52.5,No Especificado,No Especificado,Callao,2020-10-13
+P00806,Xiomara,Torres,52.5,No Especificado,Asma,No Especificado,2017-01-26
+P00807,Juan,No Especificado,52.5,M,No Especificado,San Isidro,2021-09-10
+P00808,No Especificado,Fernández,52.5,No Especificado,No Especificado,Cajamarca,2019-10-29
+P00809,No Especificado,Rojas,46.0,M,Covid-19,La Molina,2018-07-01
+P00810,Paola,No Especificado,52.5,No Especificado,Alergia,No Especificado,2015-02-08
+P00811,Paola,Fernández,36.0,M,Alergia,Surco,2019-02-25
+P00812,María,García,52.5,No Especificado,No Especificado,No Especificado,2023-02-19
+P00813,María,Ramírez,52.5,F,Gripe,Lince,2022-02-26
+P00814,Juan,García,52.5,No Especificado,Diabetes,San Isidro,2021-01-06
+P00815,Juan,Fernández,93.0,No Especificado,No Especificado,Callao,2020-03-24
+P00816,José,Rojas,52.5,M,Migraña,La Molina,2018-07-30
+P00817,Pedro,Vargas,28.0,No Especificado,Diabetes,Lince,2022-09-20
+P00818,No Especificado,Fernández,81.0,No Especificado,No Especificado,La Molina,2019-12-21
+P00819,José,Vargas,82.0,No Especificado,Covid-19,Cajamarca,2018-08-21
+P00820,Andrés,Gómez,68.0,M,Gripe,Surco,2017-06-22
+P00821,Andrés,Fernández,52.5,F,Gripe,No Especificado,2023-07-07
+P00822,María,Gómez,50.0,No Especificado,Migraña,Lince,2020-04-07
+P00823,Paola,Pérez,52.5,M,No Especificado,Surco,2019-12-28
+P00824,María,Pérez,52.5,No Especificado,Hipertensión,No Especificado,2023-02-05
+P00825,María,Pérez,80.0,F,Hipertensión,No Especificado,2018-03-02
+P00826,Paola,Pérez,52.5,No Especificado,Covid-19,Callao,2019-03-20
+P00827,Lucía,Gómez,52.5,M,Alergia,No Especificado,2022-07-04
+P00828,Paola,Torres,73.0,No Especificado,Gripe,No Especificado,2020-11-23
+P00829,Pedro,Pérez,98.0,F,Hipertensión,No Especificado,2024-09-30
+P00830,Ana,Vargas,52.5,M,Diabetes,Lince,2015-10-11
+P00831,Pedro,Rojas,6.0,F,No Especificado,Cajamarca,2024-03-08
+P00832,Lucía,No Especificado,99.0,No Especificado,No Especificado,Miraflores,2015-01-22
+P00833,Ana,García,52.5,No Especificado,Migraña,Surco,2019-01-25
+P00834,Juan,Fernández,38.0,No Especificado,No Especificado,Surco,2021-09-05
+P00835,Xiomara,Fernández,52.5,F,Gripe,Miraflores,2015-01-10
+P00836,Lucía,Gómez,52.5,F,Hipertensión,Callao,2015-07-26
+P00837,Luis,Ramírez,94.0,No Especificado,Diabetes,Miraflores,2022-12-13
+P00838,Luis,Ramírez,52.5,M,Asma,No Especificado,2016-12-20
+P00839,No Especificado,Pérez,52.5,F,Alergia,Surco,2017-05-13
+P00840,Xiomara,Fernández,34.0,M,Gripe,No Especificado,2021-12-24
+P00841,María,Ramírez,52.5,No Especificado,Gripe,San Isidro,2023-10-31
+P00842,Pedro,Gómez,52.5,No Especificado,Migraña,No Especificado,2017-02-15
+P00843,Lucía,García,62.0,F,Asma,Lince,2016-10-22
+P00844,Luis,Pérez,42.0,No Especificado,No Especificado,Surco,2021-08-13
+P00845,Xiomara,No Especificado,52.5,F,Hipertensión,Callao,2022-11-04
+P00846,Ana,Fernández,52.5,No Especificado,Gripe,No Especificado,2018-01-29
+P00847,María,Rojas,77.0,F,Migraña,Miraflores,2017-01-27
+P00848,Paola,Ramírez,13.0,No Especificado,No Especificado,Surco,2020-10-04
+P00849,Luis,Vargas,52.5,No Especificado,No Especificado,La Molina,2018-06-29
+P00850,Ana,Torres,52.5,F,Hipertensión,Surco,2021-10-11
+P00851,Xiomara,Rojas,6.0,No Especificado,Alergia,No Especificado,2020-08-27
+P00852,Pedro,Fernández,52.5,No Especificado,No Especificado,No Especificado,2016-10-08
+P00853,Paola,Gómez,52.5,No Especificado,Alergia,Callao,2024-02-21
+P00854,Andrés,Fernández,52.5,M,Gripe,Lince,2015-09-25
+P00855,Xiomara,Rojas,32.0,No Especificado,No Especificado,San Isidro,2023-03-27
+P00856,Ana,Fernández,52.5,No Especificado,Asma,Miraflores,2019-11-30
+P00857,María,Gómez,52.5,No Especificado,Covid-19,Surco,2024-05-01
+P00858,Ana,No Especificado,23.0,No Especificado,Hipertensión,No Especificado,2017-06-17
+P00859,Paola,Fernández,98.0,M,Diabetes,San Isidro,2020-01-11
+P00860,Andrés,Vargas,52.5,No Especificado,No Especificado,No Especificado,2024-05-24
+P00861,Juan,Ramírez,52.5,M,Hipertensión,Callao,2015-02-01
+P00862,Xiomara,Torres,46.0,F,Diabetes,Cajamarca,2018-08-17
+P00863,Lucía,Fernández,88.0,No Especificado,Hipertensión,No Especificado,2018-04-30
+P00864,Pedro,Pérez,52.5,No Especificado,Covid-19,Callao,2019-01-14
+P00865,Ana,Rojas,79.0,M,No Especificado,Callao,2015-04-08
+P00866,María,García,52.5,No Especificado,Alergia,No Especificado,2021-05-26
+P00867,María,Ramírez,52.5,No Especificado,Diabetes,Lince,2017-11-07
+P00868,No Especificado,Fernández,52.5,No Especificado,Asma,Miraflores,2015-05-17
+P00869,Andrés,Vargas,47.0,No Especificado,Gripe,Cajamarca,2018-11-06
+P00870,Andrés,Pérez,52.5,No Especificado,No Especificado,No Especificado,2023-08-10
+P00871,María,No Especificado,64.0,No Especificado,No Especificado,Miraflores,2017-01-12
+P00872,José,Vargas,97.0,No Especificado,Hipertensión,No Especificado,2015-10-14
+P00873,José,Vargas,52.5,F,Asma,No Especificado,2020-05-03
+P00874,Lucía,Pérez,16.0,M,Migraña,Surco,2021-02-17
+P00875,Ana,No Especificado,83.0,No Especificado,Alergia,No Especificado,2020-05-06
+P00876,José,Ramírez,69.0,No Especificado,Gripe,Surco,2023-10-01
+P00877,José,Pérez,59.0,No Especificado,Hipertensión,Lince,2015-03-04
+P00878,Pedro,Gómez,30.0,F,Covid-19,Callao,2017-11-11
+P00879,Ana,Pérez,52.5,M,No Especificado,No Especificado,2024-06-27
+P00880,María,Torres,52.5,No Especificado,Hipertensión,No Especificado,2024-04-15
+P00881,Paola,García,52.5,M,Migraña,San Isidro,2020-03-30
+P00882,No Especificado,No Especificado,52.5,No Especificado,Covid-19,No Especificado,2016-02-07
+P00883,Pedro,No Especificado,52.5,No Especificado,Diabetes,Miraflores,2021-05-11
+P00884,Luis,Rojas,52.5,No Especificado,Alergia,San Isidro,2017-11-03
+P00885,No Especificado,Pérez,52.5,No Especificado,Hipertensión,Miraflores,2024-04-05
+P00886,Ana,Rojas,52.5,M,Gripe,Cajamarca,2023-06-18
+P00887,Paola,Gómez,52.5,M,No Especificado,Surco,2018-07-02
+P00888,Ana,Ramírez,52.5,F,Gripe,Surco,2021-11-25
+P00889,No Especificado,Pérez,52.5,M,Covid-19,Miraflores,2022-12-19
+P00890,Ana,Ramírez,52.5,F,Migraña,San Isidro,2023-10-30
+P00891,Lucía,Vargas,52.5,No Especificado,Diabetes,No Especificado,2015-03-04
+P00892,Pedro,Pérez,52.5,F,Asma,Surco,2015-11-04
+P00893,No Especificado,Fernández,52.5,F,Migraña,No Especificado,2023-09-08
+P00894,Lucía,Vargas,52.5,F,Diabetes,No Especificado,2023-10-29
+P00895,Pedro,Fernández,88.0,No Especificado,No Especificado,Miraflores,2022-10-09
+P00896,Lucía,No Especificado,94.0,No Especificado,Asma,Cajamarca,2019-08-11
+P00897,Luis,Ramírez,42.0,No Especificado,Covid-19,Callao,2022-07-06
+P00898,No Especificado,Gómez,52.5,F,Hipertensión,San Isidro,2024-10-06
+P00899,Paola,Gómez,52.5,M,Hipertensión,No Especificado,2015-09-01
+P00900,Luis,García,19.0,No Especificado,Diabetes,Surco,2020-10-28
+P00901,María,Gómez,52.5,M,Asma,Callao,2015-05-20
+P00902,Andrés,Pérez,93.0,F,Covid-19,Surco,2015-03-15
+P00903,María,García,52.5,No Especificado,Diabetes,No Especificado,2017-09-24
+P00904,No Especificado,Fernández,23.0,No Especificado,No Especificado,San Isidro,2016-08-18
+P00905,Andrés,No Especificado,34.0,No Especificado,Diabetes,No Especificado,2022-02-21
+P00906,Paola,Gómez,52.5,F,Hipertensión,La Molina,2015-03-08
+P00907,Lucía,Rojas,52.5,M,Asma,Callao,2022-11-04
+P00908,Lucía,Gómez,55.0,F,Alergia,La Molina,2021-06-02
+P00909,Paola,Pérez,5.0,M,Covid-19,San Isidro,2019-11-20
+P00910,Xiomara,García,52.5,F,Asma,Surco,2015-06-15
+P00911,Pedro,Torres,52.5,F,Alergia,Miraflores,2016-12-07
+P00912,Ana,Pérez,52.5,M,Migraña,Miraflores,2022-01-11
+P00913,Paola,Gómez,57.0,No Especificado,Hipertensión,Callao,2015-01-29
+P00914,Luis,Torres,46.0,No Especificado,Alergia,No Especificado,2024-09-02
+P00915,Juan,No Especificado,52.5,No Especificado,No Especificado,Callao,2015-07-21
+P00916,Ana,García,49.0,M,Hipertensión,Miraflores,2015-06-15
+P00917,No Especificado,Gómez,86.0,F,Asma,No Especificado,2021-06-28
+P00918,Luis,Gómez,52.5,F,Migraña,Miraflores,2017-01-12
+P00919,Pedro,Fernández,67.0,No Especificado,Alergia,Lince,2018-10-22
+P00920,Lucía,Gómez,52.5,M,Covid-19,Surco,2021-01-27
+P00921,José,Vargas,52.5,F,Alergia,San Isidro,2020-02-07
+P00922,Andrés,García,52.5,No Especificado,Asma,Lince,2015-04-18
+P00923,Lucía,Gómez,35.0,No Especificado,Diabetes,Surco,2020-03-28
+P00924,No Especificado,Ramírez,52.5,F,No Especificado,La Molina,2017-07-07
+P00925,Juan,Torres,52.5,F,Covid-19,Miraflores,2022-07-24
+P00926,Ana,Ramírez,40.0,No Especificado,Covid-19,No Especificado,2018-04-12
+P00927,José,No Especificado,52.5,M,Asma,Miraflores,2024-11-30
+P00928,Andrés,Pérez,52.5,No Especificado,Covid-19,Cajamarca,2015-03-12
+P00929,Juan,Rojas,52.5,F,Covid-19,Miraflores,2017-03-31
+P00930,Juan,Pérez,52.5,F,No Especificado,Surco,2024-11-22
+P00931,No Especificado,Ramírez,52.5,No Especificado,Gripe,Surco,2022-09-29
+P00932,Ana,Ramírez,73.0,No Especificado,Alergia,No Especificado,2018-10-20
+P00933,Juan,Fernández,52.5,M,No Especificado,Surco,2016-04-30
+P00934,Andrés,Ramírez,52.5,M,Gripe,Cajamarca,2023-10-04
+P00935,Pedro,García,52.5,F,No Especificado,Cajamarca,2016-06-07
+P00936,Lucía,Rojas,34.0,No Especificado,Gripe,No Especificado,2022-05-15
+P00937,Lucía,Ramírez,52.5,No Especificado,Covid-19,No Especificado,2019-03-28
+P00938,Pedro,Rojas,52.5,No Especificado,Hipertensión,La Molina,2019-09-29
+P00939,María,Ramírez,52.5,No Especificado,Diabetes,San Isidro,2024-09-08
+P00940,Lucía,Torres,33.0,No Especificado,No Especificado,No Especificado,2016-09-03
+P00941,María,No Especificado,52.5,M,Gripe,La Molina,2021-10-27
+P00942,Xiomara,Vargas,38.0,No Especificado,Hipertensión,Callao,2021-04-27
+P00943,Paola,Fernández,52.5,M,No Especificado,No Especificado,2020-01-18
+P00944,Lucía,Ramírez,10.0,No Especificado,Alergia,No Especificado,2016-02-16
+P00945,José,García,52.5,No Especificado,No Especificado,Cajamarca,2023-07-07
+P00946,María,No Especificado,79.0,F,Diabetes,Miraflores,2017-12-27
+P00947,Lucía,Pérez,52.5,F,Hipertensión,La Molina,2020-11-14
+P00948,Pedro,Ramírez,52.5,M,Gripe,Surco,2020-02-03
+P00949,Paola,Gómez,83.0,No Especificado,No Especificado,Cajamarca,2015-01-31
+P00950,Luis,No Especificado,76.0,M,Migraña,La Molina,2022-05-27
+P00951,Xiomara,Gómez,52.5,F,Migraña,San Isidro,2019-10-14
+P00952,Andrés,Gómez,94.0,No Especificado,Covid-19,La Molina,2018-03-01
+P00953,Xiomara,Gómez,83.0,M,No Especificado,Callao,2018-11-11
+P00954,José,No Especificado,52.5,M,Hipertensión,Surco,2020-06-28
+P00955,Paola,Fernández,27.0,F,Asma,San Isidro,2021-01-06
+P00956,José,No Especificado,66.0,M,No Especificado,Callao,2022-02-04
+P00957,José,Rojas,52.5,No Especificado,Diabetes,Lince,2022-12-04
+P00958,Lucía,Rojas,59.0,F,No Especificado,No Especificado,2019-01-28
+P00959,Pedro,Pérez,52.5,M,Alergia,Miraflores,2023-07-27
+P00960,Juan,Pérez,52.5,F,Migraña,No Especificado,2016-11-05
+P00961,Xiomara,No Especificado,12.0,F,No Especificado,San Isidro,2021-05-28
+P00962,Paola,Rojas,52.5,F,Diabetes,Miraflores,2015-01-04
+P00963,Luis,Ramírez,0.0,M,Asma,Cajamarca,2022-03-14
+P00964,Juan,Fernández,73.0,No Especificado,Asma,No Especificado,2023-02-20
+P00965,Pedro,No Especificado,52.5,No Especificado,Hipertensión,Surco,2020-02-20
+P00966,Paola,Pérez,52.5,No Especificado,Gripe,No Especificado,2021-03-13
+P00967,No Especificado,Pérez,95.0,No Especificado,Migraña,No Especificado,2017-03-05
+P00968,María,Pérez,52.5,M,No Especificado,Miraflores,2018-05-22
+P00969,No Especificado,García,52.5,F,Migraña,La Molina,2018-08-05
+P00970,Lucía,Rojas,52.5,F,No Especificado,Cajamarca,2021-06-27
+P00971,Lucía,García,55.0,No Especificado,Alergia,Miraflores,2018-07-21
+P00972,Ana,García,39.0,No Especificado,Covid-19,No Especificado,2023-11-08
+P00973,María,Pérez,39.0,No Especificado,Covid-19,No Especificado,2022-12-15
+P00974,Luis,Torres,12.0,No Especificado,Asma,Miraflores,2016-11-03
+P00975,Juan,Gómez,37.0,F,Asma,Callao,2019-10-31
+P00976,José,No Especificado,52.5,No Especificado,Migraña,Miraflores,2016-03-03
+P00977,Ana,Gómez,20.0,No Especificado,Diabetes,Cajamarca,2020-08-28
+P00978,María,Pérez,52.5,F,Gripe,No Especificado,2016-04-15
+P00979,No Especificado,Gómez,52.5,M,Alergia,La Molina,2017-05-18
+P00980,Luis,Pérez,52.5,M,Gripe,Callao,2023-02-17
+P00981,Pedro,No Especificado,52.5,No Especificado,Migraña,Lince,2023-09-15
+P00982,Paola,No Especificado,52.5,F,Covid-19,No Especificado,2021-01-08
+P00983,Andrés,Fernández,52.5,No Especificado,Gripe,Surco,2017-07-13
+P00984,Pedro,Vargas,52.5,M,Gripe,Surco,2023-12-25
+P00985,No Especificado,García,52.5,No Especificado,Migraña,No Especificado,2016-10-25
+P00986,Ana,Ramírez,52.5,F,Covid-19,San Isidro,2015-06-11
+P00987,José,Vargas,52.5,F,Asma,La Molina,2023-09-23
+P00988,María,Torres,58.0,No Especificado,No Especificado,No Especificado,2018-05-21
+P00989,Xiomara,Vargas,44.0,No Especificado,No Especificado,Miraflores,2021-03-28
+P00990,María,Gómez,53.0,No Especificado,No Especificado,La Molina,2015-08-14
+P00991,Pedro,Rojas,52.5,F,Gripe,Cajamarca,2015-05-18
+P00992,José,Torres,52.5,M,Gripe,Surco,2015-01-31
+P00993,Paola,Vargas,64.0,No Especificado,Hipertensión,Cajamarca,2017-12-20
+P00994,Juan,García,52.5,F,Covid-19,Surco,2019-04-02
+P00995,Pedro,Gómez,52.5,No Especificado,No Especificado,San Isidro,2019-11-11
+P00996,Ana,Gómez,52.5,No Especificado,Covid-19,San Isidro,2015-08-29
+P00997,Juan,Rojas,100.0,No Especificado,Migraña,Callao,2020-05-26
+P00998,Lucía,Torres,52.5,No Especificado,No Especificado,Miraflores,2017-11-02
+P00999,Andrés,No Especificado,52.5,No Especificado,Asma,Lince,2023-04-21
+P01000,Pedro,Torres,13.0,F,No Especificado,Lince,2018-09-28
